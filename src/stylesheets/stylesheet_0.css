@@ -1,0 +1,9 @@
+:root { --swiper-theme-color: #007aff; }
+:host { display: block; margin-left: auto; margin-right: auto; position: relative; z-index: 1; }
+.swiper-wrapper { box-sizing: initial; display: flex; height: 100%; position: relative; transition-property: transform; transition-timing-function: var(--swiper-wrapper-transition-timing-function,initial); width: 100%; z-index: 1; }
+.swiper-wrapper { transform: translateZ(0px); }
+@keyframes swiper-preloader-spin { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(1turn); }
+}
+:root { --swiper-navigation-size: 44px; }

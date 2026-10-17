@@ -1,0 +1,1434 @@
+<!DOCTYPE html><!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Wed Sep 02 2026 04:47:14 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.snckd.de" data-wf-page="6a02f204d7fd60161fdde19f" data-wf-site="6a017aab5e6bd1ba8a0e742e" data-wf-intellimize-customer-id="117168347" lang="en"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>About SNCKD | Social-First Production Unit</title><meta content="Meet SNCKD, a social-first production unit built for outdoor, adventure, and modern brand storytelling through high-end content and agile production systems." name="description"/><meta content="About SNCKD | Social-First Production Unit" property="og:title"/><meta content="Meet SNCKD, a social-first production unit built for outdoor, adventure, and modern brand storytelling through high-end content and agile production systems." property="og:description"/><meta content="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f1ce00fad826d7b0ab26_Graph_1200%20x%20630.png" property="og:image"/><meta content="About SNCKD | Social-First Production Unit" name="twitter:title"/><meta content="Meet SNCKD, a social-first production unit built for outdoor, adventure, and modern brand storytelling through high-end content and agile production systems." name="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/css/snackd.webflow.shared.d9fe157a1.css" rel="stylesheet" type="text/css" integrity="sha384-2f4Veho31+LqsQqNWBSrfXPUwPxxw3bZowbkXSWALhsto+Kl+X+9/70IbBge34vm" crossorigin="anonymous"/><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02e1ce8da68790cdd0157c_favicon-dark.png" rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: light)"/><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02e1daef123fc88de0f853_favicon.png" rel="icon" type="image/png" sizes="32x32" media="(prefers-color-scheme: dark)"/><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02e1ceeffbe68fd47089c7_favicon-dark.png" rel="icon" type="image/png" sizes="48x48"/><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02e12f6a3bbf3c89ccdf0e_webclip.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02e12f73afc1a4cb826057_webclip.png" rel="icon" type="image/png" sizes="192x192"/><link href="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02e12ffa1a0769b1be27b6_webclip.png" rel="icon" type="image/png" sizes="512x512"/><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About SNCKD",
+  "url": "/about",
+  "inLanguage": "en",
+  "description": "Meet SNCKD, a social-first production unit built for outdoor, adventure, and modern brand storytelling through high-end content and agile production systems.",
+  "about": {
+    "@type": "Organization",
+    "@id": "https://schema.org/#Organization",
+    "name": "SNCKD",
+    "description": "A social-first production unit that sits between high-end production and creator culture, specializing in outdoor, adventure, and action sports content production.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "DE"
+    },
+    "email": "hello@SNCKED.com",
+    "sameAs": [
+      "https://www.linkedin.com/company/snckd",
+      "https://www.instagram.com/snckd",
+      "https://www.youtube.com/snckd",
+      "https://vimeo.com/snckd"
+    ],
+    "employee": [
+      {
+        "@type": "Person",
+        "name": "David Karg",
+        "jobTitle": "Creative Director"
+      },
+      {
+        "@type": "Person",
+        "name": "Leon Schreiber",
+        "jobTitle": "Head of Content"
+      },
+      {
+        "@type": "Person",
+        "name": "Michel Büchter",
+        "jobTitle": "Editor"
+      },
+      {
+        "@type": "Person",
+        "name": "Janis Kollender",
+        "jobTitle": "Content Creator"
+      },
+      {
+        "@type": "Person",
+        "name": "Korbinian Engstler",
+        "jobTitle": "Social Media Consultant & Partner"
+      }
+    ],
+    "areaServed": {
+      "@type": "Text",
+      "text": "19+ Countries"
+    }
+  }
+}
+</script><script type="text/javascript">localStorage.removeItem('intellimize_opt_out_117168347'); if (localStorage.getItem('intellimize_data_tracking_type') !== 'always') { localStorage.setItem('intellimize_data_tracking_type', 'always'); }</script><script type="text/javascript">(function(e){var s={r:[]};e.wf={r:s.r,ready:t=>{s.r.push(t)}}})(window)</script><script type="text/javascript">(function(e){var s={p:[],r:[]};e.intellimize={p:s.p,r:s.r,push:function(t){s.p.push(t)},ready:function(t){s.r.push(t)}}})(window)</script><link href="https://cdn.intellimize.co/snippet/117168347.js" rel="preload" as="script"/><script type="text/javascript">var wfClientScript=document.createElement("script");wfClientScript.src="https://cdn.intellimize.co/snippet/117168347.js",wfClientScript.async=!0,wfClientScript.onerror=function(){document.documentElement.className=document.documentElement.className.replace(RegExp(" ?anti-flicker"),"")},document.head.appendChild(wfClientScript);</script><link href="https://api.intellimize.co" rel="preconnect" crossorigin="true"/><link href="https://log.intellimize.co" rel="preconnect" crossorigin="true"/><link href="https://117168347.intellimizeio.com" rel="preconnect"/><link href="https://consent.cookiebot.com" rel="preconnect" crossorigin="anonymous" />
+<link href="https://consentcdn.cookiebot.com" rel="preconnect" crossorigin="anonymous" />
+
+<!-- =========================================================================
+     Lenis CSS — REQUIRED stylesheet for the Lenis smooth-scroll library
+     (the JS lib itself is loaded in the footer custom code).
+     ========================================================================= -->
+
+
+<!-- Cookiebot -->
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="3b898b1c-c052-4eb6-baeb-db597951bbaa" data-blockingmode="auto" type="text/javascript"></script>
+<!-- Keep the consent dialog invisible for the preloader's whole lifetime —
+       reveal() removes this style the moment the loader has fully faded out.
+       Pure CSS (not Cookiebot.hide()) so the dialog can never paint a single
+       frame before script.js gets a chance to react. visibility (not
+       display) so Cookiebot's internal layout/measure logic still runs. -->
+       
+<style id="cookiebot-preloader-hold">
+  #CybotCookiebotDialog,
+  #CybotCookiebotDialogBackdrop {
+    visibility: hidden !important;
+    opacity: 0 !important;
+  }
+</style>
+<script>
+  // Compliance backstop: the consent dialog must never stay hidden forever.
+  // If the preloader crashes before reveal() lifts the hold above, lift it
+  // here — 15s is well past any sane load.
+  setTimeout(function () {
+    var hold = document.getElementById("cookiebot-preloader-hold");
+    if (hold) hold.remove();
+  }, 15000);
+</script>
+<style>
+  /* Lenis CSS */
+  html.lenis,
+  html.lenis body {
+    height: auto;
+  }
+  .lenis:not(.lenis-autoToggle).lenis-stopped {
+    overflow: clip;
+  }
+  .lenis [data-lenis-prevent],
+  .lenis [data-lenis-prevent-wheel],
+  .lenis [data-lenis-prevent-touch] {
+    overscroll-behavior: contain;
+  }
+  .lenis.lenis-smooth iframe {
+    pointer-events: none;
+  }
+  .lenis.lenis-autoToggle {
+    transition-property: overflow;
+    transition-duration: 1ms;
+    transition-behavior: allow-discrete;
+  }
+</style>
+
+
+<!-- =========================================================================
+     Global texture overlay.
+     Adds a subtle film-grain texture across the entire site on top of every
+     page. Pinned fixed and full-viewport so the grain stays static while
+     content scrolls behind it — adds tactile feel without distracting.
+
+     The texture file is uploaded as a Webflow asset. To swap it, upload a
+     new tileable texture via Webflow's Assets panel and update the URL.
+     ========================================================================= -->
+<style>
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 10000000;
+
+    background-image: url("https://cdn.prod.website-files.com/69cb6ca40069b6473ff6e5c1/69f2365ba95fd26029c6e34c_template-1.avif");
+    background-repeat: repeat;
+    background-size: 150px 150px;
+
+    mix-blend-mode: soft-light;
+    opacity: 0.15;
+  }
+</style>
+
+
+<link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"
+      />
+<!-- 
+<link
+  rel="stylesheet"
+  href="https://y8dw8r.csb.app/styles.css"
+/> -->
+
+<style>
+  .insight_item.swiper-slide-active {
+    pointer-events: auto;
+    .insight_corner_wrap {
+      opacity: 1;
+    }
+    .insight_line_wrap {
+      opacity: 1;
+    }
+    .insight_visual_wrap {
+      opacity: 1;
+      filter: grayscale(0%);
+    }
+  }
+
+  .insight_item {
+    pointer-events: none;
+    .insight_line_wrap {
+      opacity: 0;
+    }
+  }
+
+  /* Stagger Chars */
+  [data-chars-stagger] {
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+  }
+
+  [data-chars-stagger] span {
+    display: inline-block;
+    position: relative;
+    text-shadow: 0px 1.3em currentColor;
+    transform: translateY(0em) rotate(0.001deg);
+    transition: transform 0.6s cubic-bezier(0.625, 0.05, 0, 1);
+  }
+
+  [data-chars-stagger-wrapper]:hover [data-chars-stagger] span {
+    transform: translateY(-1.3em) rotate(0.001deg);
+  }
+
+  [data-stroke="corner"]::before {
+    content: "";
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    border: 1px solid transparent;
+    background: linear-gradient(
+      325deg,
+      currentColor var(--fill),
+      transparent var(--fill)
+    )
+      border-box,
+      linear-gradient(145deg, currentColor var(--fill), transparent var(--fill))
+      border-box,
+      linear-gradient(225deg, currentColor var(--fill), transparent var(--fill))
+      border-box,
+      linear-gradient(35deg, currentColor var(--fill), transparent var(--fill))
+      border-box;
+    -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  .projects_item_visual_wrap,
+  .projects_item_corners {
+    transition: opacity var(--transition-default) 0.4s;
+  }
+
+  .projects_item:hover {
+    .projects_item_visual_wrap {
+      opacity: 1;
+    }
+
+    .projects_item_corners {
+      opacity: 1;
+    }
+  }
+
+  [data-stroke="corner"],
+  [data-stroke="visual"] {
+    transition: all 0.3s ease-out;
+  }
+
+  [data-stroke="corner-hover"]:hover {
+    .insight_corner_wrap [data-stroke="corner"] {
+      width: 106%;
+      height: 106%;
+      inset: -3%;
+    }
+
+    [data-stroke="visual"] {
+      transform: scale(0.95);
+    }
+  }
+
+  .partner_center_play_btn {
+    pointer-events: none !important;
+  }
+
+  /* [data-stroke="corner"]::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  border: 1px solid transparent;
+  background: linear-gradient(
+  325deg,
+  var(--swatch--brand) var(--fill),
+  transparent var(--fill)
+  )
+  border-box,
+  linear-gradient(
+  145deg,
+  var(--swatch--brand) var(--fill),
+  transparent var(--fill)
+  )
+  border-box,
+  linear-gradient(
+  225deg,
+  var(--swatch--brand) var(--fill),
+  transparent var(--fill)
+  )
+  border-box,
+  linear-gradient(
+  35deg,
+  var(--swatch--brand) var(--fill),
+  transparent var(--fill)
+  )
+  border-box;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+  } */
+
+</style></head><body class="u-theme-dark"><div class="page_wrap"><div class="u-position-fixed"><div class="u-embed-css w-embed"><style>
+  :root {
+    --transition-relaxed: cubic-bezier(0.7, 0, 0.3, 1);
+    --transition-default: var(--transition-relaxed);
+    --transition-duration: 0.5s;
+  }
+
+  .button_link_line, .footer_link_line, .button_cta_line, .button_large_line, .footer_bottom_link_line{
+    transition: transform 0.5s cubic-bezier(.25, .46, .45, .94);
+  }
+
+  .button_main_element,
+  .button_link_element,
+  .button_arrow_element,
+
+  .nav_links_link,
+  .footer_link_wrap,
+
+  .form_ui_label,
+  .form_ui_visual_wrap,
+  .form_ui_visual_inner {
+    transition: all var(--transition-duration) var(--transition-default);
+  }
+</style></div><div class="w-embed"><style>
+  :root {
+    --grid-breakout: [full-start] minmax(0, 1fr) [content-start] repeat(var(--site--column-count), minmax(0, var(--site--column-width))) [content-end] minmax(0, 1fr) [full-end];
+    --grid-breakout-single: [full-start] minmax(0, 1fr) [content-start] minmax(0, calc(100% - var(--site--margin) * 2)) [content-end] minmax(0, 1fr) [full-end];
+  }
+  ::before,
+  ::after {
+    box-sizing: border-box;
+  }
+  .w-embed:before,
+  .w-embed:after,
+  .w-richtext:before,
+  .w-richtext:after {
+    content: unset;
+  }
+  html {
+    background-color: var(--_theme---background);
+  }
+  button {
+    background-color: unset;
+    padding: unset;
+    text-align: inherit;
+  }
+  button:not(:disabled) {
+    cursor: pointer;
+  }
+  video {
+    width: 100%;
+    object-fit: cover;
+  }
+  /* remove padding of empty element */
+  .wf-empty {
+    padding: 0;
+  }
+  svg {
+    max-width: 100%;
+  }
+  @media (prefers-color-scheme: light) {
+    option {
+      color: black;
+    }
+  }
+  img::selection {
+    background: transparent;
+  }
+  /* Typography */
+  body {
+    text-transform: var(--_text-style---text-transform);
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Clear Defaults */
+  a:not([class]) {
+    text-decoration: underline;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  blockquote,
+  label {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    text-wrap: inherit;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  select:has(option[value='']:checked) {
+    color: color-mix(in lab, currentcolor 60%, transparent);
+  }
+  /* Selection Color */
+  ::selection {
+    background-color: var(--_theme---selection--background);
+    color: var(--_theme---selection--text);
+  }
+  /* Margin Trim */
+  :is(.u-margin-trim, .u-rich-text) > :not(:not(.w-condition-invisible, .u-cover-absolute, .u-ignore-trim) ~ :not(.w-condition-invisible, .u-cover-absolute, .u-ignore-trim)),
+  :is(.u-margin-trim, .u-rich-text) > :not(:not(.w-condition-invisible, .u-cover-absolute, .u-ignore-trim) ~ :not(.w-condition-invisible, .u-cover-absolute, .u-ignore-trim)).u-display-contents > :first-child {
+    margin-top: 0;
+  }
+  :is(.u-margin-trim, .u-rich-text) > :not(:has(~ :not(.w-condition-invisible, .u-cover-absolute, .u-ignore-trim))),
+  :is(.u-margin-trim, .u-rich-text) > :not(:has(~ :not(.w-condition-invisible, .u-cover-absolute, .u-ignore-trim))).u-display-contents > :last-child {
+    margin-bottom: 0;
+  }
+  /* Line Height Trim 
+  :is(h1,h2,h3,h4,h5,h6,p):not(.u-text-trim-off,:has([class*="u-text-style-"]))::before,
+  [class*="u-text-style-"]:not(.u-text-trim-off,:has(h1,h2,h3,h4,h5,h6,p))::before {
+  content: "";
+  display: table;
+  margin-bottom: calc(-0.5lh + var(--_text-style---trim-top));
+  }
+  :is(h1,h2,h3,h4,h5,h6,p):not(.u-text-trim-off,:has([class*="u-text-style-"]))::after,
+  [class*="u-text-style-"]:not(.u-text-trim-off,:has(h1,h2,h3,h4,h5,h6,p))::after {
+  content: "";
+  display: table;
+  margin-bottom: calc(-0.5lh + var(--_text-style---trim-bottom));
+  } */
+  /* Line Height Trim On */
+  .u-text-trim-on::before,
+  .u-text-trim-on::before {
+    content: '';
+    display: table;
+    margin-bottom: calc(-0.5lh + var(--_text-style---trim-top));
+  }
+  .u-text-trim-on::after,
+  .u-text-trim-on::after {
+    content: '';
+    display: table;
+    margin-bottom: calc(-0.5lh + var(--_text-style---trim-bottom));
+  }
+
+  /* Rich Text Links */
+  .w-richtext a {
+    position: relative;
+    z-index: 4;
+  }
+  /* Line Clamp */
+  .u-line-clamp-1,
+  .u-line-clamp-2,
+  .u-line-clamp-3,
+  .u-line-clamp-4 {
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  .u-line-clamp-2 {
+    -webkit-line-clamp: 2;
+  }
+  .u-line-clamp-3 {
+    -webkit-line-clamp: 3;
+  }
+  .u-line-clamp-4 {
+    -webkit-line-clamp: 4;
+  }
+
+  /* Line Clamp */
+  [class*='u-line-clamp']:not(.w-richtext),
+  [class*='u-line-clamp'].w-richtext > * {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  [class*='u-line-clamp'].w-richtext > :not(:first-child) {
+    display: none;
+  }
+  .u-line-clamp-2:not(.w-richtext),
+  .u-line-clamp-2.w-richtext > * {
+    -webkit-line-clamp: 2;
+  }
+  .u-line-clamp-3:not(.w-richtext),
+  .u-line-clamp-3.w-richtext > * {
+    -webkit-line-clamp: 3;
+  }
+  .u-line-clamp-4:not(.w-richtext),
+  .u-line-clamp-4.w-richtext > * {
+    -webkit-line-clamp: 4;
+  }
+
+  /* Text Max Width */
+  .c-heading > *,
+  .c-paragraph > * {
+    width: 100%;
+    max-width: inherit !important;
+    margin-inline: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  /* Child Contain */
+  .u-child-contain > * {
+    width: 100%;
+    max-width: inherit !important;
+    margin-inline: 0 !important;
+    margin-top: 0 !important;
+  }
+  /* Hide */
+  .u-hide-if-empty:empty,
+  .u-hide-if-empty:not(:has(> :not(.w-condition-invisible))),
+  .u-hide-if-empty-cms:not(:has(.w-dyn-item)),
+  .u-embed-js,
+  .u-embed-css {
+    display: none !important;
+  }
+  /* Focus State */
+  a,
+  button,
+  :where([tabindex]),
+  [data-outline] {
+    outline-offset: var(--focus--offset-outer);
+  }
+  a:focus-visible,
+  button:focus-visible,
+  [tabindex]:focus-visible,
+  label:has(input:focus-visible) [data-outline],
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    outline-color: var(--_theme---text);
+    outline-width: var(--focus--width);
+    outline-style: solid;
+  }
+  /* Disabled */
+  [data-button]:has(button:disabled) {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  /* Global / Clickable Component */
+  .wf-design-mode .clickable_wrap {
+    z-index: 0;
+  }
+  .clickable_wrap a[href='#'] {
+    display: none;
+  }
+  .clickable_wrap a[href='#'] ~ button {
+    display: block;
+  }
+  /* Responsive Above */
+  @container threshold-large (width >= 62em) {
+    .u-order-unset-above {
+      order: unset !important;
+    }
+    .u-all-unset-above {
+      all: unset !important;
+    }
+    .u-grid-below {
+      display: flex !important;
+    }
+  }
+  @container threshold-medium (width >= 48em) {
+    .u-order-unset-above {
+      order: unset !important;
+    }
+    .u-all-unset-above {
+      all: unset !important;
+    }
+    .u-grid-below {
+      display: flex !important;
+    }
+  }
+  @container threshold-small (width >= 30em) {
+    .u-order-unset-above {
+      order: unset !important;
+    }
+    .u-all-unset-above {
+      all: unset !important;
+    }
+    .u-grid-below {
+      display: flex !important;
+    }
+  }
+  /* Responsive Below */
+  @container threshold-large (width < 62em) {
+    .u-order-unset-below {
+      order: unset !important;
+    }
+    .u-all-unset-below {
+      all: unset !important;
+    }
+    .u-grid-above {
+      display: flex !important;
+    }
+  }
+  @container threshold-medium (width < 48em) {
+    .u-order-unset-below {
+      order: unset !important;
+    }
+    .u-all-unset-below {
+      all: unset !important;
+    }
+    .u-grid-above {
+      display: flex !important;
+    }
+  }
+  @container threshold-small (width < 30em) {
+    .u-order-unset-below {
+      order: unset !important;
+    }
+    .u-all-unset-below {
+      all: unset !important;
+    }
+    .u-grid-above {
+      display: flex !important;
+    }
+  }
+
+  /* Global / Clickable Component */
+  .wf-design-mode .clickable_wrap {
+    z-index: 0;
+  }
+
+  /* Number Attributes */
+  [data-number='-1'] {
+    --number: initial;
+  }
+  [data-number='0'] {
+    --number: 0;
+  }
+  [data-number='1'] {
+    --number: 1;
+  }
+  [data-number='2'] {
+    --number: 2;
+  }
+  [data-number='3'] {
+    --number: 3;
+  }
+  [data-number='4'] {
+    --number: 4;
+  }
+  [data-number='5'] {
+    --number: 5;
+  }
+  [data-number='6'] {
+    --number: 6;
+  }
+  [data-number='7'] {
+    --number: 7;
+  }
+  [data-number='8'] {
+    --number: 8;
+  }
+  [data-number='9'] {
+    --number: 9;
+  }
+  [data-number='10'] {
+    --number: 10;
+  }
+  [data-number='11'] {
+    --number: 11;
+  }
+  [data-number='12'] {
+    --number: 12;
+  }
+  [data-number='13'] {
+    --number: 13;
+  }
+  [data-number='14'] {
+    --number: 14;
+  }
+  [data-number='15'] {
+    --number: 15;
+  }
+  [data-number='16'] {
+    --number: 16;
+  }
+  [data-number='17'] {
+    --number: 17;
+  }
+  [data-number='18'] {
+    --number: 18;
+  }
+  [data-number='19'] {
+    --number: 19;
+  }
+  [data-number='20'] {
+    --number: 20;
+  }
+  [data-number='21'] {
+    --number: 21;
+  }
+  [data-number='22'] {
+    --number: 22;
+  }
+  [data-number='23'] {
+    --number: 23;
+  }
+  [data-number='24'] {
+    --number: 24;
+  }
+  [data-number='25'] {
+    --number: 25;
+  }
+  [data-number='26'] {
+    --number: 26;
+  }
+  [data-number='27'] {
+    --number: 27;
+  }
+  [data-number='28'] {
+    --number: 28;
+  }
+  [data-number='29'] {
+    --number: 29;
+  }
+  [data-number='30'] {
+    --number: 30;
+  }
+  [data-number='31'] {
+    --number: 31;
+  }
+  [data-number='32'] {
+    --number: 32;
+  }
+  [data-number='33'] {
+    --number: 33;
+  }
+  [data-number='34'] {
+    --number: 34;
+  }
+  [data-number='35'] {
+    --number: 35;
+  }
+  [data-number='36'] {
+    --number: 36;
+  }
+  [data-number='37'] {
+    --number: 37;
+  }
+  [data-number='38'] {
+    --number: 38;
+  }
+  [data-number='39'] {
+    --number: 39;
+  }
+  [data-number='40'] {
+    --number: 40;
+  }
+  [data-number='41'] {
+    --number: 41;
+  }
+  [data-number='42'] {
+    --number: 42;
+  }
+  [data-number='43'] {
+    --number: 43;
+  }
+  [data-number='44'] {
+    --number: 44;
+  }
+  [data-number='45'] {
+    --number: 45;
+  }
+  [data-number='46'] {
+    --number: 46;
+  }
+  [data-number='47'] {
+    --number: 47;
+  }
+  [data-number='48'] {
+    --number: 48;
+  }
+  [data-number='49'] {
+    --number: 49;
+  }
+  [data-number='50'] {
+    --number: 50;
+  }
+  [data-number='51'] {
+    --number: 51;
+  }
+  [data-number='52'] {
+    --number: 52;
+  }
+  [data-number='53'] {
+    --number: 53;
+  }
+  [data-number='54'] {
+    --number: 54;
+  }
+  [data-number='55'] {
+    --number: 55;
+  }
+  [data-number='56'] {
+    --number: 56;
+  }
+  [data-number='57'] {
+    --number: 57;
+  }
+  [data-number='58'] {
+    --number: 58;
+  }
+  [data-number='59'] {
+    --number: 59;
+  }
+  [data-number='60'] {
+    --number: 60;
+  }
+  [data-number='61'] {
+    --number: 61;
+  }
+  [data-number='62'] {
+    --number: 62;
+  }
+  [data-number='63'] {
+    --number: 63;
+  }
+  [data-number='64'] {
+    --number: 64;
+  }
+  [data-number='65'] {
+    --number: 65;
+  }
+  [data-number='66'] {
+    --number: 66;
+  }
+  [data-number='67'] {
+    --number: 67;
+  }
+  [data-number='68'] {
+    --number: 68;
+  }
+  [data-number='69'] {
+    --number: 69;
+  }
+  [data-number='70'] {
+    --number: 70;
+  }
+  [data-number='71'] {
+    --number: 71;
+  }
+  [data-number='72'] {
+    --number: 72;
+  }
+  [data-number='73'] {
+    --number: 73;
+  }
+  [data-number='74'] {
+    --number: 74;
+  }
+  [data-number='75'] {
+    --number: 75;
+  }
+  [data-number='76'] {
+    --number: 76;
+  }
+  [data-number='77'] {
+    --number: 77;
+  }
+  [data-number='78'] {
+    --number: 78;
+  }
+  [data-number='79'] {
+    --number: 79;
+  }
+  [data-number='80'] {
+    --number: 80;
+  }
+  [data-number='81'] {
+    --number: 81;
+  }
+  [data-number='82'] {
+    --number: 82;
+  }
+  [data-number='83'] {
+    --number: 83;
+  }
+  [data-number='84'] {
+    --number: 84;
+  }
+  [data-number='85'] {
+    --number: 85;
+  }
+  [data-number='86'] {
+    --number: 86;
+  }
+  [data-number='87'] {
+    --number: 87;
+  }
+  [data-number='88'] {
+    --number: 88;
+  }
+  [data-number='89'] {
+    --number: 89;
+  }
+  [data-number='90'] {
+    --number: 90;
+  }
+  [data-number='91'] {
+    --number: 91;
+  }
+  [data-number='92'] {
+    --number: 92;
+  }
+  [data-number='93'] {
+    --number: 93;
+  }
+  [data-number='94'] {
+    --number: 94;
+  }
+  [data-number='95'] {
+    --number: 95;
+  }
+  [data-number='96'] {
+    --number: 96;
+  }
+  [data-number='97'] {
+    --number: 97;
+  }
+  [data-number='98'] {
+    --number: 98;
+  }
+  [data-number='99'] {
+    --number: 99;
+  }
+  [data-number='100'] {
+    --number: 100;
+  }
+
+  /* State Manager */
+  [data-state] {
+    --_state---true: 1;
+    --_state---false: 0;
+  }
+  .is-active,
+  [data-state~='checked']:is(:checked, :has(:checked)),
+  [data-state~='current']:is(.w--current, :has(.w--current)),
+  [data-state~='open']:is(.w--open, :has(.w--open)),
+  [data-state~='pressed']:is([aria-pressed='true'], :has([aria-pressed='true'])),
+  [data-state~='expanded']:is([aria-expanded='true'], :has([aria-expanded='true'])),
+  [data-state~='external']:is([target='_blank'], :has([target='_blank'])) {
+    --_state---true: 0;
+    --_state---false: 1;
+  }
+  .wf-design-mode [data-trigger~='preview'],
+  [data-trigger~='focus']:is(:focus-visible, :has(:focus-visible)),
+  [data-trigger~='group']:has([data-trigger~='focus-other']:focus-visible, [data-trigger~='focus-other'] :focus-visible) [data-trigger~='focus-other']:not(:focus-visible, :has(:focus-visible)) {
+    --_trigger---on: 0;
+    --_trigger---off: 1;
+  }
+  @media (hover: hover) {
+    [data-trigger~='hover']:hover,
+    [data-trigger~='hover-if-clickable']:has(.clickable_wrap:not(.w-condition-invisible)):hover,
+    [data-trigger~='group']:has([data-trigger~='hover-other']:hover) [data-trigger~='hover-other']:not(:hover) {
+      --_trigger---on: 0;
+      --_trigger---off: 1;
+    }
+    [data-trigger~='hover-other']:hover {
+      --_trigger---on: 1 !important;
+      --_trigger---off: 0 !important;
+    }
+  }
+  @media (hover: none) {
+    [data-trigger~='mobile'] {
+      --_trigger---on: 0;
+      --_trigger---off: 1;
+    }
+  }
+</style></div><div class="u-embed-css w-embed"><style>
+  html,
+  body {
+    background-color: var(--swatch--dark-900); /* Set to your preferred dark color */
+    overscroll-behavior: none;
+  }
+
+  /* For Firefox */
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: #555555 #1e1e1e; /* thumb-color track-color */
+  }
+
+  /* For Chrome, Edge, Safari, and Opera */
+  ::-webkit-scrollbar {
+    width: 12px; /* Width of vertical scrollbar */
+    height: 12px; /* Height of horizontal scrollbar */
+  }
+
+  /* The track (background of the scrollbar) */
+  ::-webkit-scrollbar-track {
+    background: #1e1e1e;
+  }
+
+  /* The draggable thumb */
+  ::-webkit-scrollbar-thumb {
+    background: #555555;
+    border-radius: 6px; /* Rounds the corners of the scrollbar */
+    border: 3px solid #1e1e1e; /* Creates a padding effect around the thumb */
+  }
+
+  /* The thumb when hovered */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #777777;
+  }
+
+  /* The corner where vertical and horizontal scrollbars meet */
+  ::-webkit-scrollbar-corner {
+    background: #1e1e1e;
+  }
+
+  .u-inner-border {
+    &::before {
+      content: '';
+      position: absolute;
+      inset: 0%;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: inherit;
+      z-index: 2;
+    }
+  }
+
+  [data-odometer-element] {
+    display: inline-flex;
+    align-items: center;
+    font-variant-numeric: tabular-nums;
+  }
+
+  [data-odometer-part='mask'],
+  [data-odometer-part='static'] {
+    display: inline-block;
+    overflow: clip;
+    padding: 0.05em;
+    margin: -0.05em;
+  }
+
+  [data-odometer-part='roller'] {
+    display: block;
+    white-space: pre;
+    text-align: center;
+    will-change: transform;
+  }
+
+  [data-odometer-part='static'] {
+    display: inline-block;
+  }
+
+  [data-footer-link='item'] {
+    [data-footer-link='left-bracket'] {
+      position: absolute;
+      left: 0.5rem;
+    }
+    [data-footer-link='right-bracket'] {
+      position: absolute;
+      right: 0.5rem;
+    }
+  }
+
+  [data-tag='wrapper'] {
+    [data-tag='left-bracket'] {
+      position: absolute;
+      left: 0.5rem;
+    }
+    [data-tag='right-bracket'] {
+      position: absolute;
+      right: 0.5rem;
+    }
+  }
+</style></div><div class="u-embed-css w-embed"><style>
+  :root {
+    --button-040-height: 3em;
+    --button-040-gap: 0.75em;
+    --button-040-ease-hover: cubic-bezier(0.625, 0.05, 0, 1);
+    --button-040-ease-focus: cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  
+  .button_main_wrap[data-hover-btn-40='true'],
+  .button_arrow_wrap {
+    --button-040-translate-x: calc((var(--button-040-height) + var(--button-040-gap, 0em)) * -1);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .button_main_wrap[data-hover-btn-40='true']::after,
+  .button_arrow_wrap::after {
+    content: '';
+    display: block;
+    position: absolute;
+    transition: box-shadow 0.3s var(--button-040-ease-focus);
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .button_main_wrap[data-hover-btn-40='true']:is(:focus-visible)::after,
+  .button_arrow_wrap:is(:focus-visible)::after {
+    box-shadow: 0 0 0 0.125em var(--button-040-color-focus);
+  }
+
+  .button_main_icon_wrap,
+  .button_arrow_element {
+    will-change: transform;
+    transform-origin: left center;
+    scale: 0;
+    transition: scale 0.6s var(--button-040-ease-hover);
+  }
+
+  .button_main_icon_wrap[data-button-icon='right'],
+  .button_arrow_element[data-button-icon='right'] {
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    transform-origin: right center;
+    scale: 1;
+  }
+
+  .button_main_icon,
+  .button_arrow_icon {
+    transition: rotate 0.6s var(--button-040-ease-hover);
+    rotate: 45deg;
+  }
+
+  .button_main_icon_wrap[data-button-icon='right'] .button_main_icon,
+  .button_arrow_element[data-button-icon='right'] .button_arrow_icon {
+    rotate: 0deg;
+  }
+
+  .button_main_element {
+    translate: var(--button-040-translate-x) 0 0;
+    transition: translate 0.6s var(--button-040-ease-hover);
+  }
+
+  @media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+    .button_main_wrap[data-hover-btn-40='true']:is(:hover, :focus-visible) .button_main_icon_wrap,
+    [data-hover]:is(:hover, :focus-visible) .button_main_wrap[data-hover-btn-40='true'] .button_main_icon_wrap,
+    .button_arrow_wrap:is(:hover, :focus-visible) .button_arrow_element,
+    [data-hover]:is(:hover, :focus-visible) .button_arrow_wrap .button_arrow_element {
+      scale: 1;
+      transition: scale 0.735s 0.05s var(--button-040-ease-hover);
+    }
+
+    .button_main_wrap[data-hover-btn-40='true']:is(:hover, :focus-visible) .button_main_icon_wrap[data-button-icon='right'],
+    [data-hover]:is(:hover, :focus-visible) .button_main_wrap[data-hover-btn-40='true'] .button_main_icon_wrap[data-button-icon='right'],
+    .button_arrow_wrap:is(:hover, :focus-visible) .button_arrow_element[data-button-icon='right'],
+    [data-hover]:is(:hover, :focus-visible) .button_arrow_wrap .button_arrow_element[data-button-icon='right'] {
+      scale: 0;
+      transition: scale 0.735s 0.05s var(--button-040-ease-hover);
+    }
+
+    .button_main_wrap[data-hover-btn-40='true']:is(:hover, :focus-visible) .button_main_icon_wrap[data-button-icon='right'] .button_main_icon,
+    [data-hover]:is(:hover, :focus-visible) .button_main_wrap[data-hover-btn-40='true'] .button_main_icon_wrap[data-button-icon='right'] .button_main_icon,
+    .button_arrow_wrap:is(:hover, :focus-visible) .button_arrow_element[data-button-icon='right'] .button_arrow_icon,
+    [data-hover]:is(:hover, :focus-visible) .button_arrow_wrap .button_arrow_element[data-button-icon='right'] .button_arrow_icon {
+      rotate: 45deg;
+    }
+
+    .button_main_wrap[data-hover-btn-40='true']:is(:hover, :focus-visible) .button_main_icon,
+    [data-hover]:is(:hover, :focus-visible) .button_main_wrap[data-hover-btn-40='true'] .button_main_icon,
+    .button_arrow_wrap:is(:hover, :focus-visible) .button_arrow_icon,
+    [data-hover]:is(:hover, :focus-visible) .button_arrow_wrap .button_arrow_icon {
+      rotate: 0deg;
+      transition: rotate 0.735s 0.05s var(--button-040-ease-hover);
+    }
+
+    .button_main_wrap[data-hover-btn-40='true']:is(:hover, :focus-visible) .button_main_element,
+    [data-hover]:is(:hover, :focus-visible) .button_main_wrap[data-hover-btn-40='true'] .button_main_element {
+      translate: 0 0 0;
+      transition: translate 0.735s 0.05s var(--button-040-ease-hover);
+    }
+  }
+</style></div></div><div class="guide_wrap"><div class="w-embed"><style>
+html.wf-design-mode .guide_wrap {
+	display: block;
+}
+.guide_layout {
+	counter-reset: gridguides;
+}
+.guide_layout > div::before {
+  counter-increment: gridguides;
+  content: counter(gridguides);
+}
+</style></div><div data-padding-bottom="none" data-padding-top="none" class="guide_contain u-container"><div class="guide_layout"><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div><div class="guide_column"></div></div></div></div><div data-wf--nav--nav-position="overlap" class="nav_component w-variant-dd866659-1d7d-6447-6461-66ca86ca367f"><div class="w-embed"><style>
+:root {
+	--nav--menu-open-duration: 600ms;
+	--nav--menu-close-duration: 600ms;
+	--nav--dropdown-open-duration: 600ms;
+	--nav--dropdown-close-duration: 600ms;
+}
+
+body:has(.nav_component .w-nav-button.w--open):not(:has(.nav_desktop_wrap:not(.w-condition-invisible))) { overflow: hidden; }
+/* on smaller screens */
+@media (width < 65em) {
+	/* disable scroll when mobile menu is open */
+	body:has(.nav_component .w-nav-button.w--open) { overflow: hidden; }
+}
+/* on larger screens */
+@container (min-width: 65em) {
+	/* show desktop nav & dropdown backdrop */
+	.nav_desktop_wrap, .nav_dropdown_backdrop { display: block; }
+	/* hide mobile nav & mobile menu backdrop */
+	.nav_desktop_wrap:not(.w-condition-invisible) ~ .nav_mobile_wrap, .nav_desktop_wrap:not(.w-condition-invisible) ~ .nav_menu_backdrop { display: none; }
+}
+/* dropdown list: initial state */
+html:not(.wf-design-mode) .nav_dropdown_component > .w-dropdown-list {
+	/* removes display none to enable css transitions */
+	display: grid !important;
+	grid-template-columns: minmax(0, 1fr);
+	/* sets list to 0 height by default */
+	grid-template-rows: 0fr;
+	transition: grid-template-rows var(--nav--dropdown-close-duration) var(--transition-default);
+	/* makes list content not focusable when closed */
+	visibility: hidden;
+	opacity: 0;
+}
+/* makes list content focusable when opened */
+html:not(.wf-design-mode) .nav_dropdown_component > .w-dropdown-list.w--open {
+	visibility: visible;
+	opacity: 1;
+}
+/* sets list child to overflow hidden to enable css height transition */
+.nav_dropdown_component > .w-dropdown-list > * {
+	overflow: hidden;
+}
+/* set open state of dropdown list */
+.nav_dropdown_component:has(> .w-dropdown-toggle[aria-expanded="true"]) > .w-dropdown-list {
+	--nav--dropdown-close-duration: var(--nav--dropdown-open-duration);
+	grid-template-rows: 1fr;
+}
+/* on desktop, delay dropdown opening if another dropdown is open */
+.nav_desktop_wrap:has(.nav_dropdown_component > .w-dropdown-toggle.w--open[aria-expanded="false"]) .nav_dropdown_component:has(> .w--open[aria-expanded="true"]) > .w-dropdown-list {
+	transition-delay: var(--nav--dropdown-close-duration);
+}
+/* reveal dropdown backdrop when dropdown open */
+.nav_dropdown_backdrop {
+	transition: opacity var(--nav--dropdown-close-duration) var(--transition-default);
+}
+body:has(.nav_dropdown_component > [aria-expanded="true"]) .nav_dropdown_backdrop {
+	opacity: 1;
+}
+/* rotate arrow inside open dropdown */
+.w-dropdown-toggle[aria-expanded="true"] .nav_links_svg {
+	transform: rotate(-180deg);
+}
+/* fade out other dropdown links when link is hovered */
+@media (hover: hover) and (pointer: fine) {
+	body:has(.nav_dropdown_item:hover) .nav_dropdown_item:not(:hover) > * > * {
+		opacity: 0.5;
+	}
+}
+/* animate first hamburger line when opened 
+.nav_component .w-nav-button.w--open > * > :first-child {
+	transform: translateY(calc(var(--nav--hamburger-thickness) * 0.5 + var(--nav--hamburger-gap) * 0.5)) rotate(-45deg);
+}
+*/
+  
+/* animate second hamburger line when opened 
+.nav_component .w-nav-button.w--open > * > :last-child {
+	transform: translateY(calc(var(--nav--hamburger-thickness) * -0.5 + var(--nav--hamburger-gap) * -0.5)) rotate(45deg);
+}
+*/
+  
+.nav_component .w-nav-button.w--open > * > :first-child {
+	transform: translateY(calc(var(--nav--hamburger-thickness) * 0.5 + var(--nav--hamburger-gap) * 0.5)) rotate(-45deg);
+}
+
+  .nav_component .w-nav-button.w--open > * > :nth-child(2) {
+	transform: scaleX(0);
+    display: none;
+}
+
+  .nav_component .w-nav-button.w--open > * > :last-child {
+	transform: translateY(calc(var(--nav--hamburger-thickness) * -0.5 + var(--nav--hamburger-gap) * -0.5)) rotate(45deg);
+}
+  
+/* reveal mobile menu backdrop on menu open */
+.nav_menu_backdrop {
+	transition: opacity var(--nav--menu-close-duration) var(--transition-default);
+}
+.nav_component:has(.w-nav-button.w--open) .nav_menu_backdrop {
+	opacity: 1;
+}
+/* menu animations */
+@keyframes menuOpen {
+ from { clip-path: polygon(0 0, 100% 0, 100% 0, 0 0); }
+ to { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
+}
+@keyframes menuClose {
+ from { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
+ to { clip-path: polygon(0 0, 100% 0, 100% 0, 0 0); }
+}
+/* menu open */
+.nav_component:has(.w-nav-button.w--open) .w-nav-menu {
+	animation: menuOpen var(--nav--menu-open-duration) ease-in-out forwards;
+}
+/* menu close */
+.nav_component:has(.w-nav-button:not(.w--open)) .w-nav-menu {
+	animation: menuClose var(--nav--menu-close-duration) ease-in-out forwards;
+}
+/* position overflow to top of screen */
+.nav_component .w-nav-overlay {
+ top: 0;
+ min-height: 100vh;
+}
+/* search focus underline */
+.nav_search_wrap:has(input:focus-visible) {
+	border-color: var(--_theme---text);
+}
+/* open dropdown on mobile */
+.nav_mobile_wrap [data-open-on-mobile] > .w-dropdown-toggle {
+	display: none;
+}
+.nav_mobile_wrap [data-open-on-mobile] > .w-dropdown-list {
+	visibility: visible;
+	opacity: 1;
+	display: block;
+	grid-template-rows: 1fr;
+}
+/* Rotate Nav Banner Arrow When External Link */
+a[target="_blank"] .nav_banner_svg {
+	transform: rotate(-45deg);
+}
+/* nav banner */
+html:has(.nav_banner_wrap:not(.w-condition-invisible)):not(.hide-nav-banner) {
+	--nav--height-total: calc(var(--nav--banner-height) + var(--nav--height));
+}
+.hide-nav-banner .nav_banner_wrap {
+	display: none;
+}
+.wf-design-mode .nav_mobile_menu_wrap {
+	width: 100%;
+}
+</style></div><div role="banner" class="nav_desktop_wrap"><div data-trigger="hover focus" class="nav_desktop_contain"><div class="nav_desktop_layout"><a aria-label="Home Page" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:43ba6c77-0f82-87dd-2627-66c30f96fd22" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="43ba6c77-0f82-87dd-2627-66c30f96fd22" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%5D" href="/" class="nav_desktop_logo w-inline-block"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a44a54fbad045e6fda30937_Logo.png" loading="lazy" alt="" class="u-cover u-object-fit-contain"/></a><nav role="navigation" class="nav_desktop_menu_wrap"><div data-wf--menu--variant="desktop" class="nav_links_component w-variant-23049969-09ac-2789-520b-3c6ae895bbc6"><ul role="list" class="nav_links_wrap w-variant-23049969-09ac-2789-520b-3c6ae895bbc6 w-list-unstyled"><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%22f898fa14-e9c4-646a-b332-c95900470b8f%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dccf%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/" aria-label="Home" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:f898fa14-e9c4-646a-b332-c95900470b8f:bb06776e-8a71-3ddb-5462-67309629dccf:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">Home</div></a></li><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block w--current" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%22f898fa14-e9c4-646a-b332-c95900470b8f%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%2289c062cf-758f-5762-6fc5-3fc13ded6673%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/about" aria-label="About SNCKD" aria-current="page" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:f898fa14-e9c4-646a-b332-c95900470b8f:89c062cf-758f-5762-6fc5-3fc13ded6673:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">About SNCKD</div></a></li><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%22f898fa14-e9c4-646a-b332-c95900470b8f%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%22abbb8275-19d7-d3f6-0506-834575a5198e%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/projects" aria-label="Gallery" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:f898fa14-e9c4-646a-b332-c95900470b8f:abbb8275-19d7-d3f6-0506-834575a5198e:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">Gallery</div></a></li><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%22f898fa14-e9c4-646a-b332-c95900470b8f%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%2243803538-efc5-38e6-4f2a-3987f7858c74%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/contact" aria-label="Contact" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:f898fa14-e9c4-646a-b332-c95900470b8f:43803538-efc5-38e6-4f2a-3987f7858c74:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">Contact</div></a></li></ul></div></nav></div><div class="nav_desktop_corner"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div><div class="nav_desktop_bg"></div></div></div><div data-animation="default" data-collapse="all" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="nav_mobile_wrap w-nav"><div class="nav_mobile_contain"><div class="nav_mobile_layout"><div class="nav_mobile_blur"></div><div class="nav_mobile_corner"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--navbar)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div><a aria-label="Home Page" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:43ba6c77-0f82-87dd-2627-66c30f96fdc4" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="43ba6c77-0f82-87dd-2627-66c30f96fdc4" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%5D" href="/" class="nav_mobile_logo w-inline-block"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a44a54fbad045e6fda30937_Logo.png" loading="lazy" alt="" class="u-cover u-object-fit-contain"/></a><nav role="navigation" class="nav_mobile_menu_wrap w-nav-menu"><div data-lenis-prevent="" class="nav_mobile_menu_scroll"><div class="nav_mobile_menu_contain"><div data-wf--menu--variant="mobile" class="nav_links_component"><ul role="list" class="nav_links_wrap w-list-unstyled"><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%221dfabe21-1a6b-073b-830a-c447d0157bba%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dccf%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/" aria-label="Home" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:1dfabe21-1a6b-073b-830a-c447d0157bba:bb06776e-8a71-3ddb-5462-67309629dccf:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">Home</div></a></li><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block w--current" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%221dfabe21-1a6b-073b-830a-c447d0157bba%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%2289c062cf-758f-5762-6fc5-3fc13ded6673%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/about" aria-label="About SNCKD" aria-current="page" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:1dfabe21-1a6b-073b-830a-c447d0157bba:89c062cf-758f-5762-6fc5-3fc13ded6673:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">About SNCKD</div></a></li><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%221dfabe21-1a6b-073b-830a-c447d0157bba%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%22abbb8275-19d7-d3f6-0506-834575a5198e%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/projects" aria-label="Gallery" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:1dfabe21-1a6b-073b-830a-c447d0157bba:abbb8275-19d7-d3f6-0506-834575a5198e:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">Gallery</div></a></li><li class="nav_links_item"><a data-chars-stagger-wrapper="" class="nav_links_link w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2243ba6c77-0f82-87dd-2627-66c30f96fd0b%22%2C%22instanceId%22%3A%22e3bc3967-408a-7710-c57e-549632ff493c%22%7D%2C%7B%22componentId%22%3A%22f898fa14-e9c4-646a-b332-c95900470afa%22%2C%22instanceId%22%3A%221dfabe21-1a6b-073b-830a-c447d0157bba%22%7D%2C%7B%22componentId%22%3A%22bb06776e-8a71-3ddb-5462-67309629dcd0%22%2C%22instanceId%22%3A%2243803538-efc5-38e6-4f2a-3987f7858c74%22%7D%5D" data-wf-element-id="bb06776e-8a71-3ddb-5462-67309629dcd0" href="/contact" aria-label="Contact" data-trigger="hover focus" data-wf-native-id-path="e3bc3967-408a-7710-c57e-549632ff493c:1dfabe21-1a6b-073b-830a-c447d0157bba:43803538-efc5-38e6-4f2a-3987f7858c74:bb06776e-8a71-3ddb-5462-67309629dcd0" data-wf-ao-click-engagement-tracking="true"><div data-chars-stagger="" class="nav_links_text">Contact</div></a></li></ul></div></div></div></nav><div class="nav_button_wrap w-nav-button"><div class="nav_button_layout"><div class="nav_button_line"></div><div class="nav_button_line"></div><div class="nav_button_line"></div></div></div></div></div></div><div class="nav_dropdown_backdrop"></div><div class="nav_menu_backdrop"></div></div><main class="page_main"><section class="hero_wrap u-section"><div class="hero_contain u-container"><div class="hero_bg_wrap u-position-relative"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero.avif" loading="lazy" alt="Two cyclists in helmets riding mountain bikes uphill on a rocky trail at dusk." sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero-p-500.avif 500w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero-p-800.avif 800w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero-p-1080.avif 1080w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero-p-1600.avif 1600w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero-p-2000.avif 2000w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero-p-2600.avif 2600w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a02f3620c40760e2860843e_e97061c5499d1682adc8bda55768c9b1_about-hero.avif 2880w" class="u-cover"/><div class="hero_bg_overlay"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196a62884cff5bf3ce82a_Rectangle%2013.png" loading="lazy" alt="Man in a suit speaking and gesturing with hands in a bright office space." sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196a62884cff5bf3ce82a_Rectangle%2013-p-500.avif 500w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196a62884cff5bf3ce82a_Rectangle%2013-p-800.avif 800w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196a62884cff5bf3ce82a_Rectangle%2013-p-1080.png 1080w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196a62884cff5bf3ce82a_Rectangle%2013.png 1440w" class="u-cover"/></div><div class="hero_bg_texture"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196f662a60379cd3fce15_texture.avif" loading="lazy" alt="Black and white pixelated abstract pattern with grid and dot texture over a light background." sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196f662a60379cd3fce15_texture-p-500.png 500w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196f662a60379cd3fce15_texture-p-800.png 800w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196f662a60379cd3fce15_texture-p-1080.png 1080w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0196f662a60379cd3fce15_texture.avif 1440w" class="u-cover"/></div></div><div class="hero_layout"><div class="hero_content_wrap"><h1 class="hero_content_heading u-text-style-display u-mix-blend-difference">About SNCKD</h1></div><div class="hero_time_wrap"><p class="hero_time_text u-text-style-main u-color-faded u-secondary-family"><span data-hero-element="time">08:00 AM</span><span>, GERMANY</span></p></div></div></div><div class="hero_overlay"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a326684e20ccff14d1f110b_615341e4ea439979f5325bf20556ac98_texture.avif" loading="eager" sizes="(max-width: 2880px) 100vw, 2880px" srcset="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a326684e20ccff14d1f110b_615341e4ea439979f5325bf20556ac98_texture-p-500.avif 500w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a326684e20ccff14d1f110b_615341e4ea439979f5325bf20556ac98_texture-p-800.png 800w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a326684e20ccff14d1f110b_615341e4ea439979f5325bf20556ac98_texture-p-1080.avif 1080w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a326684e20ccff14d1f110b_615341e4ea439979f5325bf20556ac98_texture-p-1600.avif 1600w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a326684e20ccff14d1f110b_615341e4ea439979f5325bf20556ac98_texture.avif 2880w" alt="" class="hero_overlay-img"/></div></section><section class="about_wrap u-section"><div class="about_contain u-container"><div class="about_layout"><div class="about_top_wrap"><div class="about_top_header_wrap"><div data-tag="wrapper" class="tag_wrap"><div class="tag_layout"><div data-tag="left-bracket" class="tag_text u-text-style-main">[</div><div data-tag="text" class="tag_text u-text-style-small">WE ARE SNCKD</div><div data-tag="right-bracket" class="tag_text u-text-style-main">]</div></div></div><h2 data-text-animation="true" class="about_top_header u-text-style-h3 u-text-trim-on u-text-wrap-default u-color-faded"><span id="" class="about_header_indent"></span><span>We sit between high-end production and creator culture. Most film productions deliver one final film. Most social agencies deliver fast content without the look. We do neither and both.</span></h2></div><div class="about_top_desc_wrap"><div data-number="40" data-wf--typography-paragraph--font-style="text-large" class="c-paragraph w-variant-fdb8e663-01e0-aae6-13eb-e6dfca16b689 w-richtext u-rich-text u-color-faded-30"><p>Our roots are in mountainbike, outdoor and adventure sports — the kind of environments where large productions can&#x27;t operate. That shapes how we work: small units, fast decisions, real understanding of the places and people we film. We don&#x27;t run an agency. We run a production unit.</p><p></p></div></div></div><div data-odometer-group="" class="about_bottom_wrap u-grid-autofit"><div class="about_stats_item"><div class="about_stats_line_wrap"><div data-element-line="horizontal" STYLE="background-color: rgba(255, 255, 255, 0.2)" class="g_line"></div></div><h3 data-odometer-start="0" data-odometer-element="" class="about_stats_number u-text-trim-on">162+</h3><div data-number="32" data-wf--typography-paragraph--font-style="text-main" class="c-paragraph w-variant-61d538b2-709c-eb7a-4258-8c0890dc07fc w-richtext u-rich-text u-color-faded-30 u-weight-medium u-line-height-6 u-letter-spacing-loose-2"><p>Productions, built to scale.</p></div></div><div class="about_stats_item"><div class="about_stats_line_wrap"><div data-element-line="horizontal" STYLE="background-color: rgba(255, 255, 255, 0.2)" class="g_line"></div></div><h3 data-odometer-start="0" data-odometer-element="" class="about_stats_number u-text-trim-on">19+</h3><div data-number="32" data-wf--typography-paragraph--font-style="text-main" class="c-paragraph w-variant-61d538b2-709c-eb7a-4258-8c0890dc07fc w-richtext u-rich-text u-color-faded-30 u-weight-medium u-line-height-6 u-letter-spacing-loose-2"><p>Countries. One production standard.</p></div></div><div class="about_stats_item"><div class="about_stats_line_wrap"><div data-element-line="horizontal" STYLE="background-color: rgba(255, 255, 255, 0.2)" class="g_line"></div></div><h3 data-odometer-start="0" data-odometer-element="" class="about_stats_number u-text-trim-on">6</h3><div data-number="32" data-wf--typography-paragraph--font-style="text-main" class="c-paragraph w-variant-61d538b2-709c-eb7a-4258-8c0890dc07fc w-richtext u-rich-text u-color-faded-30 u-weight-medium u-line-height-6 u-letter-spacing-loose-2">Years in the field<p></p></div></div></div></div></div></section><section class="video_wrap u-section"><video src="https://s3.amazonaws.com/webflow-prod-assets/6a017aab5e6bd1ba8a0e742e/6a3baab70dbfac6c8256fb46_Lupine_Website_Loop_compressed.mp4" playsinline=" " autoplay=" " loop="" muted="" preload="metadata" poster="" class="u-video"></video></section><section class="team_wrap u-section"><div class="u-embed-css w-embed"><style>
+[data-stroke="gradient"]::before {
+    content: "";
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    border: 1px solid transparent;
+    background: linear-gradient(325deg, var(--swatch--light-100) var(--fill), transparent var(--fill)) border-box, linear-gradient(145deg, var(--swatch--light-100) var(--fill), transparent var(--fill)) border-box, linear-gradient(225deg, var(--swatch--light-100) var(--fill), transparent var(--fill)) border-box, linear-gradient(35deg, var(--swatch--light-100) var(--fill), transparent var(--fill)) border-box;
+    -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+</style></div><div class="team_contain u-container"><div class="team_layout"><div class="team_top_wrap"><div data-tag="wrapper" class="tag_wrap"><div class="tag_layout"><div data-tag="left-bracket" class="tag_text u-text-style-main">[</div><div data-tag="text" class="tag_text u-text-style-small">The Team</div><div data-tag="right-bracket" class="tag_text u-text-style-main">]</div></div></div><div data-number="58" data-wf--typography-paragraph--font-style="text-large" class="c-paragraph w-variant-fdb8e663-01e0-aae6-13eb-e6dfca16b689 w-richtext u-rich-text u-weight-medium u-line-height-6 u-letter-spacing-loose-2 u-color-faded u-text-wrap-default"><p><em>A small crew that delivers everything in-house.From first call to final cut, you work with the same people. No agency layers, no handovers, no lost-in-translation moments.</em></p></div></div><div class="team_list u-grid-autofill"><div class="u-display-contents w-dyn-list"><div role="list" class="u-display-contents w-dyn-items"><div data-stroke="corner-hover" role="listitem" class="team_item w-dyn-item"><div class="team_visual_wrap"><div data-stroke="visual" class="team_visual_img_wrap"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8d4b7f802500b080b7_DavidKarg.jpg" loading="lazy" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8d4b7f802500b080b7_DavidKarg-p-500.jpg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8d4b7f802500b080b7_DavidKarg-p-800.jpg 800w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8d4b7f802500b080b7_DavidKarg-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8d4b7f802500b080b7_DavidKarg.jpg 1458w" class="u-cover"/></div><div class="team_visual_corners"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div></div><div class="team_item_info"><div class="team_item_text u-text-style-h6">David Karg</div><div class="team_item_text u-text-style-medium u-color-faded">Creative Director</div></div></div><div data-stroke="corner-hover" role="listitem" class="team_item w-dyn-item"><div class="team_visual_wrap"><div data-stroke="visual" class="team_visual_img_wrap"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1).jpeg" loading="lazy" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1)-p-500.jpeg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1)-p-800.jpeg 800w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1)-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1)-p-1600.jpeg 1600w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1)-p-2000.jpeg 2000w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d8493e70dd6ca337a5f_Leon_Schreiber.JPG%20(1).jpeg 2706w" class="u-cover"/></div><div class="team_visual_corners"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div></div><div class="team_item_info"><div class="team_item_text u-text-style-h6">Leon Schreiber</div><div class="team_item_text u-text-style-medium u-color-faded">Head of Content</div></div></div><div data-stroke="corner-hover" role="listitem" class="team_item w-dyn-item"><div class="team_visual_wrap"><div data-stroke="visual" class="team_visual_img_wrap"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d26887d71d100fedcba_Michel_Bu%CC%88chter.jpeg" loading="lazy" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d26887d71d100fedcba_Michel_Bu%CC%88chter-p-500.jpeg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d26887d71d100fedcba_Michel_Bu%CC%88chter-p-800.jpeg 800w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d26887d71d100fedcba_Michel_Bu%CC%88chter.jpeg 1066w" class="u-cover"/></div><div class="team_visual_corners"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div></div><div class="team_item_info"><div class="team_item_text u-text-style-h6">Michel Büchter</div><div class="team_item_text u-text-style-medium u-color-faded">Editor</div></div></div><div data-stroke="corner-hover" role="listitem" class="team_item w-dyn-item"><div class="team_visual_wrap"><div data-stroke="visual" class="team_visual_img_wrap"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d1d9155542695417fae_janis%20Kollender.jpg" loading="lazy" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d1d9155542695417fae_janis%20Kollender-p-500.jpg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d1d9155542695417fae_janis%20Kollender-p-800.jpg 800w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d1d9155542695417fae_janis%20Kollender.jpg 1080w" class="u-cover"/></div><div class="team_visual_corners"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div></div><div class="team_item_info"><div class="team_item_text u-text-style-h6">Janis Kollender</div><div class="team_item_text u-text-style-medium u-color-faded">Content Creator</div></div></div><div data-stroke="corner-hover" role="listitem" class="team_item w-dyn-item"><div class="team_visual_wrap"><div data-stroke="visual" class="team_visual_img_wrap"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler.JPG" loading="lazy" alt="" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler-p-500.jpg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler-p-800.jpg 800w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler-p-1600.jpg 1600w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler-p-2000.jpg 2000w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a3b9d04ffb8fde1287e88c5_Korbinian%20Engstler.JPG 2048w" class="u-cover"/></div><div class="team_visual_corners"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div></div><div class="team_item_info"><div class="team_item_text u-text-style-h6">Korbinian Engstler</div><div class="team_item_text u-text-style-medium u-color-faded">Social Media Consultant &amp; Partner</div></div></div></div></div><div data-stroke="corner-hover" class="team_item"><div class="team_visual_wrap"><div class="team_visual_img_wrap"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a031b147c62f536822a293e_Frame%2039719.avif" loading="lazy" alt="Black question mark symbol centered on a white background." sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a031b147c62f536822a293e_Frame%2039719-p-500.avif 500w, https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a031b147c62f536822a293e_Frame%2039719.avif 800w" class="u-cover"/></div><div data-stroke="corner" class="team_visual_corners"><div data-stroke="corner" class="g_corner_wrap"><div data-wf--corner-element--variant="top-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item"><div class="g_corner_el"></div></div><div data-wf--corner-element--variant="top-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"><div class="g_corner_el w-variant-184d5821-e27e-4abc-3885-0c4d5f7ac467"></div></div><div data-wf--corner-element--variant="bottom-right" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"><div class="g_corner_el w-variant-63d23aba-50cc-94f6-ccbc-3a304f1f9855"></div></div><div data-wf--corner-element--variant="bottom-left" STYLE="--corner-size: var(--corner--small)" class="g_corner_item w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"><div class="g_corner_el w-variant-dc7e8987-a344-b981-5809-84a480bbcb55"></div></div></div></div></div><div class="team_item_info"><div data-modal-trigger="apply-modal"><div data-wf--button-main--style="primary-hide-icon-mobile" data-button=" no-transition" data-trigger="hover focus" data-hover-btn-40="true" data-modal-trigger="apply-modal" class="button_main_wrap w-variant-6eb05a7b-5c98-294e-8376-07f18bd800a8"><div data-button-icon="left" class="button_main_icon_wrap w-variant-6eb05a7b-5c98-294e-8376-07f18bd800a8"><div class="button_main_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none" class="u-svg"><path d="M4.16663 10H15.8333" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 4.16602L15.8333 9.99935L10 15.8327" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div class="button_main_element w-variant-6eb05a7b-5c98-294e-8376-07f18bd800a8"><div aria-hidden="true" class="button_main_text w-variant-6eb05a7b-5c98-294e-8376-07f18bd800a8">General Application</div></div><div class="clickable_wrap u-cover-absolute"><button type="button" aria-label="General Application" class="clickable_btn"></button></div><div data-button-icon="right" class="button_main_icon_wrap w-variant-6eb05a7b-5c98-294e-8376-07f18bd800a8"><div class="button_main_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none" class="u-svg"><path d="M4.16663 10H15.8333" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 4.16602L15.8333 9.99935L10 15.8327" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></div></div></div></div></div></div></div><dialog data-wf--modal--size="small" data-modal-target="apply-modal" data-show-in-designer="false" class="modal_dialog"><div class="u-embed-css w-embed"><style>
+.modal_dialog::backdrop { opacity: 0; }
+.wf-design-mode [data-show-in-designer="true"] {
+	display: block;
+}
+</style></div><div class="modal_inner"><div data-modal-close="" class="modal_backdrop"></div><div class="modal_content"><div data-modal-scroll="" class="modal_scroll"><div class="modal_slot"><div class="apply_modal"><div class="apply_form_block w-form"><form id="wf-form-Apply-Form" name="wf-form-Apply-Form" data-name="Apply Form" method="get" class="apply_form_wrap" data-wf-page-id="6a02f204d7fd60161fdde19f" data-wf-element-id="653e5cbe-9d0c-eb66-d623-2b763858a2c4"><div class="apply_form_col u-grid-autofill"><label data-trigger="focus" class="form_label_wrap"><span data-wf--form-label--label-variant="base" class="form_main_label_text u-text-trim-on">Name</span><input type="text" name="Vorname" placeholder="Vorname" required="" inputmode="text" class="form_main_field"/><span data-input-form="error-msg" class="form_main_label_error">Error</span></label><label data-trigger="focus" class="form_label_wrap"><span data-wf--form-label--label-variant="hidden" class="form_main_label_text w-variant-7a7e1430-cb84-4e7e-fddc-4d66784e148c u-text-trim-on">Name</span><input type="text" name="Nachname" placeholder="Nachname" required="" inputmode="text" class="form_main_field"/><span data-input-form="error-msg" class="form_main_label_error">Error</span></label></div><label data-trigger="focus" class="form_label_wrap"><span data-wf--form-label--label-variant="base" class="form_main_label_text u-text-trim-on">E-Mail</span><input type="email" name="E-Mail" placeholder="Deine Email Adresse" required="" inputmode="text" class="form_main_field"/><span data-input-form="error-msg" class="form_main_label_error">Error</span></label><label data-trigger="focus" class="form_label_wrap"><span data-wf--form-label--label-variant="base" class="form_main_label_text u-text-trim-on">Expertise</span><input type="text" name="Expertise" placeholder="Spezialisiertes Wissen" required="" inputmode="text" class="form_main_field"/><span data-input-form="error-msg" class="form_main_label_error">Error</span></label><label data-trigger="focus" class="form_label_wrap"><span data-wf--form-label--label-variant="base" class="form_main_label_text u-text-trim-on">Jahre an Erfahrung</span><input type="text" name="Jahre an Erfahrung" placeholder="Dauer des beruflichen Werdegangs" required="" inputmode="text" class="form_main_field"/><span data-input-form="error-msg" class="form_main_label_error">Error</span></label><div class="w-form-formrecaptcha g-recaptcha g-recaptcha-error g-recaptcha-disabled g-recaptcha-invalid-key"></div><div class="apply_form_btn_wrap"><div data-wf--button-main--style="primary" data-button=" " data-trigger="hover focus" data-hover-btn-40="true" class="button_main_wrap"><div data-button-icon="left" class="button_main_icon_wrap"><div class="button_main_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none" class="u-svg"><path d="M4.16663 10H15.8333" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 4.16602L15.8333 9.99935L10 15.8327" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div><div class="button_main_element"><div aria-hidden="true" class="button_main_text">Einreichen</div></div><div class="clickable_wrap u-cover-absolute"><button type="submit" aria-label="Einreichen" class="clickable_btn"></button></div><div data-button-icon="right" class="button_main_icon_wrap"><div class="button_main_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none" class="u-svg"><path d="M4.16663 10H15.8333" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 4.16602L15.8333 9.99935L10 15.8327" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></div></div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div></div></div></div><div class="u-embed-js w-embed w-script"><script>
+document.addEventListener("DOMContentLoaded", function () {
+	const modalSystem = ((window.lumos ??= {}).modal ??= {
+		list: {}, open(id) { this.list[id]?.open?.(); }, closeAll() { Object.values(this.list).forEach((m) => m.close?.()); },
+	});
+	function createModals() {
+		document.querySelectorAll(".modal_dialog").forEach(function (modal) {
+		if (modal.dataset.scriptInitialized) return;
+		modal.dataset.scriptInitialized = "true";
+
+		const modalId = modal.getAttribute("data-modal-target");
+		let lastFocusedElement;
+
+		if (typeof gsap !== "undefined") {
+			gsap.context(() => {
+				let tl = gsap.timeline({ paused: true, onReverseComplete: resetModal });
+				tl.fromTo(modal, { opacity: 0 }, { opacity: 1, duration: 0.3, ease: "power1.out" });
+				tl.from(".modal_content", { y: "6rem", duration: 0.3, ease: "power1.out" }, "<");
+				modal.tl = tl;
+			}, modal);
+		}
+
+		function resetModal() {
+			typeof lenis !== "undefined" && lenis.start ? lenis.start() : (document.body.style.overflow = "");
+			modal.close();
+ 			if (lastFocusedElement) lastFocusedElement.focus();
+			window.dispatchEvent(new CustomEvent("modal-close", { detail: { modal } }));
+		}
+		function openModal() {
+			typeof lenis !== "undefined" && lenis.stop ? lenis.stop() : (document.body.style.overflow = "hidden");
+			lastFocusedElement = document.activeElement;
+			modal.showModal();
+			if (typeof gsap !== "undefined") modal.tl.play();
+			modal.querySelectorAll("[data-modal-scroll]").forEach((el) => (el.scrollTop = 0));
+			window.dispatchEvent(new CustomEvent("modal-open", { detail: { modal } }));
+		}
+		function closeModal() {
+			typeof gsap !== "undefined" ? modal.tl.reverse() : resetModal();
+		}
+
+		if (new URLSearchParams(location.search).get("modal-id") === modalId) openModal(), history.replaceState({}, "", ((u) => (u.searchParams.delete("modal-id"), u))(new URL(location.href)));
+		modal.addEventListener("cancel", (e) => (e.preventDefault(), closeModal()));
+		modal.addEventListener("click", (e) => e.target.closest("[data-modal-close]") && closeModal());
+		document.addEventListener("click", (e) => e.target.closest("[data-modal-trigger='" + modalId + "']") && openModal());
+			modalSystem.list[modalId] = { open: openModal, close: closeModal };
+		});
+	}
+	createModals();
+});
+</script></div></dialog></section><section class="testimonial_wrap u-section"><div class="testimonial_contain u-container"><div class="testimonial_layout"><div data-tag="wrapper" class="tag_wrap"><div class="tag_layout"><div data-tag="left-bracket" class="tag_text u-text-style-main">[</div><div data-tag="text" class="tag_text u-text-style-small">UNSERE KUNDEN</div><div data-tag="right-bracket" class="tag_text u-text-style-main">]</div></div></div><div class="testimonial_content_wrap"><div class="testimonial_content_avatar"><div class="testimonial_nav_wrap"><div class="testimonial_nav"><div data-wf--button-arrow--style="secondary" data-button=" " data-trigger="hover focus" data-testimonial-slider="prev-btn" class="button_arrow_wrap w-variant-bb0688d1-65b6-14b6-81e5-21e2cd39bbda"><div data-button-icon="left" class="button_arrow_element"><div aria-hidden="true" class="button_arrow_icon"><svg data-wf--icon-arrow-full--direction="left" xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 33 26" fill="none" aria-hidden="true" class="u-svg w-variant-1c3f028b-116e-d4eb-db7f-8484491bbf2e"><path d="M18 24.8437L31 12.8438L18 0.843749" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path><path d="M30.5 13L0 13" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path></svg></div></div><div data-button-icon="right" class="button_arrow_element"><div aria-hidden="true" class="button_arrow_icon"><svg data-wf--icon-arrow-full--direction="left" xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 33 26" fill="none" aria-hidden="true" class="u-svg w-variant-1c3f028b-116e-d4eb-db7f-8484491bbf2e"><path d="M18 24.8437L31 12.8438L18 0.843749" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path><path d="M30.5 13L0 13" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path></svg></div></div><div class="clickable_wrap u-cover-absolute"><button type="button" aria-label="Prev" class="clickable_btn"></button></div></div></div><div class="testimonial_nav"><div data-wf--button-arrow--style="secondary" data-button=" " data-trigger="hover focus" data-testimonial-slider="next-btn" class="button_arrow_wrap w-variant-bb0688d1-65b6-14b6-81e5-21e2cd39bbda"><div data-button-icon="left" class="button_arrow_element"><div aria-hidden="true" class="button_arrow_icon"><svg data-wf--icon-arrow-full--direction="right" xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 33 26" fill="none" aria-hidden="true" class="u-svg"><path d="M18 24.8437L31 12.8438L18 0.843749" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path><path d="M30.5 13L0 13" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path></svg></div></div><div data-button-icon="right" class="button_arrow_element"><div aria-hidden="true" class="button_arrow_icon"><svg data-wf--icon-arrow-full--direction="right" xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 33 26" fill="none" aria-hidden="true" class="u-svg"><path d="M18 24.8437L31 12.8438L18 0.843749" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path><path d="M30.5 13L0 13" stroke="currentColor" stroke-width="var(--border-width--main)" vector-effect="non-scaling-stroke"></path></svg></div></div><div class="clickable_wrap u-cover-absolute"><button type="button" aria-label="Next" class="clickable_btn"></button></div></div></div></div><div class="testi_avatar_slider w-dyn-list"><div role="list" class="testi_avatar_list w-dyn-items"><div role="listitem" class="testi_avatar_item u-inner-border w-dyn-item"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327bd782669940f7fd5a71_benjamindieckhof.jpeg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327bd782669940f7fd5a71_benjamindieckhof-p-500.jpeg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327bd782669940f7fd5a71_benjamindieckhof.jpeg 800w" class="testi_avatar_img"/></div><div role="listitem" class="testi_avatar_item u-inner-border w-dyn-item"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327be380cef09e09b84617_jensnico.jpeg" loading="lazy" alt="" class="testi_avatar_img"/></div><div role="listitem" class="testi_avatar_item u-inner-border w-dyn-item"><img src="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327bf1ad41f2a408a7337b_MartinSchlenker.jpeg" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327bf1ad41f2a408a7337b_MartinSchlenker-p-500.jpeg 500w, https://cdn.prod.website-files.com/6a017aaf5e6bd1ba8a0e74f5/6a327bf1ad41f2a408a7337b_MartinSchlenker.jpeg 800w" class="testi_avatar_img"/></div></div></div></div><div class="testimonial_slider w-dyn-list"><div role="list" class="testimonial_slider_list w-dyn-items"><div role="listitem" class="testimonial_item w-dyn-item"><div data-number="60" data-wf--typography-paragraph--font-style="h4" class="c-paragraph w-variant-93e8af18-8413-e3ac-0442-72629401a3db w-richtext u-rich-text u-line-height-3 u-letter-spacing-tight-1"><p>&quot;What often takes forever in the planning stages of other productions felt like it was implemented instantly with Snacked. Small team, direct communication, quick decisions—and yet an extremely high-quality output. We were particularly impressed by their social-first approach from the very beginning, which resulted in much more usable content than just the classic hero piece.&quot;</p></div><div data-tag="wrapper" class="tag_wrap"><div class="tag_layout"><div data-tag="left-bracket" class="tag_text u-text-style-main">[</div><div data-tag="text" class="tag_text u-text-style-small">Benjamin Dieckhoff - Marketing Manager Bike / Consumer Products Fidlock</div><div data-tag="right-bracket" class="tag_text u-text-style-main">]</div></div></div></div><div role="listitem" class="testimonial_item w-dyn-item"><div data-number="60" data-wf--typography-paragraph--font-style="h4" class="c-paragraph w-variant-93e8af18-8413-e3ac-0442-72629401a3db w-richtext u-rich-text u-line-height-3 u-letter-spacing-tight-1"><p>&quot;Working with Snacked is simply a pleasure—they&#x27;re incredibly friendly, uncomplicated, and always open to new ideas. Especially in the area of ​​short content, they&#x27;re extremely on the cutting edge and deliver outstanding output with an unbelievably high level of technical expertise—both in production and concept development. We also particularly appreciate their approach to the media database and the entire workflow. Highly recommended!&quot;</p></div><div data-tag="wrapper" class="tag_wrap"><div class="tag_layout"><div data-tag="left-bracket" class="tag_text u-text-style-main">[</div><div data-tag="text" class="tag_text u-text-style-small">Jens-Nico - Wiegand Head of Marketing, GONSO</div><div data-tag="right-bracket" class="tag_text u-text-style-main">]</div></div></div></div><div role="listitem" class="testimonial_item w-dyn-item"><div data-number="60" data-wf--typography-paragraph--font-style="h4" class="c-paragraph w-variant-93e8af18-8413-e3ac-0442-72629401a3db w-richtext u-rich-text u-line-height-3 u-letter-spacing-tight-1"><p>&quot;Working with Snacked is extremely efficient, structured, and pleasantly uncomplicated. Compared to other agencies, their speed combined with high content quality is particularly impressive. It&#x27;s simply a pleasure working with the team!&quot;</p></div><div data-tag="wrapper" class="tag_wrap"><div class="tag_layout"><div data-tag="left-bracket" class="tag_text u-text-style-main">[</div><div data-tag="text" class="tag_text u-text-style-small">Martin Schlenker - Head of Marketing Sunlight GmbH</div><div data-tag="right-bracket" class="tag_text u-text-style-main">]</div></div></div></div></div></div></div></div></div></section><section data-cta-el="wrapper" class="cta_wrap u-section"><div class="cta_contain u-container"><div class="cta_line_wrap"><div data-element-line="horizontal" STYLE="background-color: rgba(255, 255, 255, 0.2)" class="g_line"></div></div><div class="cta_layout"><div data-cta-el="visual" class="cta_visual_wrap"><div data-poster-url="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_poster.0000000.jpg" data-video-urls="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_mp4.mp4,https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_webm.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="u-video w-background-video w-background-video-atom"><video id="68c5d9ea-7f97-f091-ae5d-ebb0e7af7767-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_poster.0000000.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_mp4.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_webm.webm" data-wf-ignore="true"/></video></div></div><div data-chars-stagger-wrapper="" data-trigger="hover focus" data-wf--button-cta--variant="base" class="button_cta_wrap"><div class="button_cta_element"><div class="button_cta_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 70 70" fill="none" class="u-svg"><path d="M8.02087 11.668C7.44071 11.668 6.88431 11.8984 6.47407 12.3087C6.06383 12.7189 5.83337 13.2753 5.83337 13.8555V32.8138C5.83337 35.7146 6.98571 38.4966 9.03688 40.5478C11.0881 42.599 13.8701 43.7513 16.7709 43.7513H56.6213L45.7713 54.6013C45.4013 54.9721 45.1765 55.4633 45.138 55.9857C45.0995 56.5081 45.2497 57.0269 45.5613 57.448L45.7713 57.693C46.1418 58.0642 46.6334 58.2899 47.1565 58.329C47.6796 58.3681 48.1993 58.2179 48.6209 57.9059L48.8659 57.693L63.4492 43.1096C63.8197 42.7393 64.0449 42.2482 64.084 41.7258C64.1231 41.2034 63.9734 40.6843 63.6621 40.263L63.4492 40.018L48.8659 25.4346C48.475 25.0468 47.9523 24.8207 47.4021 24.8013C46.8519 24.7819 46.3146 24.9708 45.8974 25.3301C45.4803 25.6894 45.214 26.1929 45.1517 26.7399C45.0894 27.2869 45.2356 27.8374 45.5613 28.2813L45.7713 28.5263L56.6213 39.3763H16.765C15.1027 39.3758 13.5025 38.7444 12.2876 37.6096C11.0728 36.4749 10.3338 34.9214 10.22 33.263L10.2025 32.8138V13.8555C10.2025 13.2753 9.97207 12.7189 9.56183 12.3087C9.15159 11.8984 8.59519 11.668 8.01503 11.668" fill="currentColor"></path></svg></div><div data-chars-stagger="" class="button_cta_text">Become a partner</div><div class="button_cta_line"></div></div><div class="clickable_wrap u-cover-absolute"><a aria-label="" data-wf-native-id-path="5cba72d3-6091-75e8-145b-12cebf6fcc3d:2c2ee774-2a0f-5eb4-99b2-3e18fa1c000e:bbee1e8b-d9a1-1add-dcb8-383ddcee6375:0254e612-9509-0757-3332-f6be61ca688a" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="0254e612-9509-0757-3332-f6be61ca688a" data-wf-component-context="%5B%7B%22componentId%22%3A%222c2ee774-2a0f-5eb4-99b2-3e18fa1c0009%22%2C%22instanceId%22%3A%225cba72d3-6091-75e8-145b-12cebf6fcc3d%22%7D%2C%7B%22componentId%22%3A%2260245a51-b0cc-a5fa-1854-449c304e1204%22%2C%22instanceId%22%3A%222c2ee774-2a0f-5eb4-99b2-3e18fa1c000e%22%7D%2C%7B%22componentId%22%3A%220254e612-9509-0757-3332-f6be61ca6889%22%2C%22instanceId%22%3A%22bbee1e8b-d9a1-1add-dcb8-383ddcee6375%22%7D%5D" href="/contact" class="clickable_link w-inline-block"></a></div></div></div></div></section></main><footer class="footer_wrap"><h2 class="footer_title u-sr-only">Footer</h2><div class="footer_contain u-container"><nav class="footer_layout"><div class="footer_top_wrap u-grid-custom"><div class="footer_content"><div class="footer_content_top"><div data-text-animation="true" data-number="36" data-wf--typography-paragraph--font-style="h5" class="c-paragraph w-variant-5c484503-e2a0-ac99-680d-56013d859efa w-richtext u-text-trim-on u-line-height-3 u-letter-spacing-tight-1 u-color-faded-80"><p>Brand films, social media content, always-on production. We produce for outdoor and action brands. Get in touch, we&#x27;d be happy to help.</p></div><div data-footer-cta="btn-wrap" class="footer_content_btn_wrap"><div data-chars-stagger-wrapper="" data-trigger="hover focus" data-wf--button-cta--variant="small" class="button_cta_wrap"><div class="button_cta_element w-variant-85e5cda1-3aa4-d008-e746-b612baa98508"><div class="button_cta_icon w-variant-85e5cda1-3aa4-d008-e746-b612baa98508"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 70 70" fill="none" class="u-svg"><path d="M8.02087 11.668C7.44071 11.668 6.88431 11.8984 6.47407 12.3087C6.06383 12.7189 5.83337 13.2753 5.83337 13.8555V32.8138C5.83337 35.7146 6.98571 38.4966 9.03688 40.5478C11.0881 42.599 13.8701 43.7513 16.7709 43.7513H56.6213L45.7713 54.6013C45.4013 54.9721 45.1765 55.4633 45.138 55.9857C45.0995 56.5081 45.2497 57.0269 45.5613 57.448L45.7713 57.693C46.1418 58.0642 46.6334 58.2899 47.1565 58.329C47.6796 58.3681 48.1993 58.2179 48.6209 57.9059L48.8659 57.693L63.4492 43.1096C63.8197 42.7393 64.0449 42.2482 64.084 41.7258C64.1231 41.2034 63.9734 40.6843 63.6621 40.263L63.4492 40.018L48.8659 25.4346C48.475 25.0468 47.9523 24.8207 47.4021 24.8013C46.8519 24.7819 46.3146 24.9708 45.8974 25.3301C45.4803 25.6894 45.214 26.1929 45.1517 26.7399C45.0894 27.2869 45.2356 27.8374 45.5613 28.2813L45.7713 28.5263L56.6213 39.3763H16.765C15.1027 39.3758 13.5025 38.7444 12.2876 37.6096C11.0728 36.4749 10.3338 34.9214 10.22 33.263L10.2025 32.8138V13.8555C10.2025 13.2753 9.97207 12.7189 9.56183 12.3087C9.15159 11.8984 8.59519 11.668 8.01503 11.668" fill="currentColor"></path></svg></div><div data-chars-stagger="" class="button_cta_text w-variant-85e5cda1-3aa4-d008-e746-b612baa98508">Let&#x27;s write your story</div><div class="button_cta_line"></div></div><div class="clickable_wrap u-cover-absolute"><a aria-label="" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:034016f5-7565-b45d-9fbe-752e3ad91acd:bbee1e8b-d9a1-1add-dcb8-383ddcee6375:0254e612-9509-0757-3332-f6be61ca688a" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="0254e612-9509-0757-3332-f6be61ca688a" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%2260245a51-b0cc-a5fa-1854-449c304e1204%22%2C%22instanceId%22%3A%22034016f5-7565-b45d-9fbe-752e3ad91acd%22%7D%2C%7B%22componentId%22%3A%220254e612-9509-0757-3332-f6be61ca6889%22%2C%22instanceId%22%3A%22bbee1e8b-d9a1-1add-dcb8-383ddcee6375%22%7D%5D" href="/contact" class="clickable_link w-inline-block"></a></div></div><div data-footer-cta="visual" class="footer_content_btn_visual_wrap"><div data-poster-url="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_poster.0000000.jpg" data-video-urls="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_mp4.mp4,https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_webm.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="u-video w-background-video w-background-video-atom"><video id="8d67de42-93f5-2a33-2617-549f261254cc-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_poster.0000000.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_mp4.mp4" data-wf-ignore="true"/><source src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e%2F6a0edb05580843d25bb70fd6_hero-crop-compressed_webm.webm" data-wf-ignore="true"/></video></div></div></div></div><div class="footer_content_bottom"><div class="footer_content_button_wrap"><div data-wf--button-text-link--variant="secondary-icon" data-button=" " data-trigger="hover focus" data-chars-stagger-wrapper="" class="button_link_wrap"><div class="clickable_wrap u-cover-absolute"><button type="button" aria-label="hello@snackedstudios.com" class="clickable_btn"></button></div><div class="button_link_element w-variant-9876ba58-ec8f-292e-80fe-735d452a9bcd"><div data-chars-stagger="" aria-hidden="true" class="button_link_text">hello@snackedstudios.com</div><div class="button_link_line w-variant-9876ba58-ec8f-292e-80fe-735d452a9bcd"></div><div class="button_link_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 20 20" fill="none" class="u-svg"><path d="M4.16699 9.99609L15.8337 9.99609" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10.0002 4.16406L15.8336 9.9974L10.0002 15.8307" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></div></div><div class="footer_nav"><section data-trigger="group" class="footer_group_wrap"><div class="footer_group_list"><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%224f5ae9dd-9822-b533-0be4-8bdf167b3772%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="https://linkedin.com/company/snackedstudios" aria-label="LinkedIn" target="_blank" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:4f5ae9dd-9822-b533-0be4-8bdf167b3772:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">LinkedIn</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%225c5f5619-7a27-16d7-6e9b-a8d4468bb1f7%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="https://www.instagram.com/snacked.studios/" aria-label="Instagram" target="_blank" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:5c5f5619-7a27-16d7-6e9b-a8d4468bb1f7:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">Instagram</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li></div></section><section data-trigger="group" class="footer_group_wrap"><div class="footer_group_list"><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%2218c9f50f-f75f-d319-bdc4-a23c02e496fb%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="/" aria-label="Home" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:18c9f50f-f75f-d319-bdc4-a23c02e496fb:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">Home</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block w--current" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%2218c9f50f-f75f-d319-bdc4-a23c02e496fd%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="/about" aria-label="ABOUT US" aria-current="page" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:18c9f50f-f75f-d319-bdc4-a23c02e496fd:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">ABOUT US</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%2218c9f50f-f75f-d319-bdc4-a23c02e496ff%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="/contact" aria-label="Contact" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:18c9f50f-f75f-d319-bdc4-a23c02e496ff:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">Contact</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li></div></section><section data-trigger="group" class="footer_group_wrap"><div class="footer_group_list"><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%225aa93274-b0ae-8200-feb9-1301c1e6175d%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="/impressum" aria-label="Imprint" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:5aa93274-b0ae-8200-feb9-1301c1e6175d:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">Imprint</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li><li data-trigger="hover focus" role="listitem" data-state="current" class="footer_group_item"><a data-chars-stagger-wrapper="" class="footer_link_wrap w-inline-block" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%2C%7B%22componentId%22%3A%22cc5680f1-2054-f843-4bdd-2183b6e0bf2a%22%2C%22instanceId%22%3A%225aa93274-b0ae-8200-feb9-1301c1e6175f%22%7D%5D" data-wf-element-id="cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-footer-link="item" href="/privacy-policy" aria-label="Privacy Policy" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:5aa93274-b0ae-8200-feb9-1301c1e6175f:cc5680f1-2054-f843-4bdd-2183b6e0bf2b" data-wf-ao-click-engagement-tracking="true"><div data-footer-link="left-bracket" class="footer_link_text u-text-style-main">[</div><div data-chars-stagger="" data-footer-link="text" class="footer_link_text u-text-style-small">Privacy Policy</div><div data-footer-link="right-bracket" class="footer_link_text u-text-style-main">]</div></a></li></div></section></div></div></div><a aria-label="Go to the homepage" data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:29394d2f-cd0c-8059-7e15-66f9381499a5" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="29394d2f-cd0c-8059-7e15-66f9381499a5" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%5D" href="/" class="footer_logo_wrap w-inline-block"><img src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/6a0440449b4a0a6ffa6a432a_footer-logo.svg" loading="lazy" alt="" class="footer_logo_img"/></a></div></nav><div class="footer_bottom_wrap"><div class="footer_bottom_layout"><div class="footer_bottom_line"><div data-element-line="horizontal" STYLE="background-color: rgba(255, 255, 255, 0.2)" class="g_line"></div></div><div class="footer_bottom_text u-text-style-main u-color-faded-30"><span>© </span><span data-dynamic-year=" ">{{year}}</span><span> SNCKD. All Rights Reserved.</span></div><a data-wf-native-id-path="5736d214-b440-dbf1-1a72-dcbda5cf27d7:92a6abca-5a6e-752a-7bd6-634989d12481" data-wf-ao-click-engagement-tracking="true" data-wf-element-id="92a6abca-5a6e-752a-7bd6-634989d12481" data-wf-component-context="%5B%7B%22componentId%22%3A%2229394d2f-cd0c-8059-7e15-66f93814999f%22%2C%22instanceId%22%3A%225736d214-b440-dbf1-1a72-dcbda5cf27d7%22%7D%5D" href="https://www.in-sync.io/en" target="_blank" class="footer_bottom_link_wrap w-inline-block"><div class="footer_bottom_link_text u-text-style-small">Website made by INSYNC</div><div class="footer_bottom_link_line"></div></a></div></div></div><div class="u-embed-js w-embed w-script"><script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("[data-dynamic-year]").forEach(function (el) {
+    el.textContent = new Date().getFullYear();
+  });
+});
+</script></div></footer></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6a017aab5e6bd1ba8a0e742e" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6a017aab5e6bd1ba8a0e742e/js/webflow.554c0323.275c95fa75543275.js" type="text/javascript" integrity="sha384-Z5PVoIQhFx5IBaGb7khqvxMUojYRPH8dLF+8UDFS0Krh3gcsZ9K/Ab/mdvT2eFlJ" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.15.0/Flip.min.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/gsap/3.15.0/CustomEase.min.js" type="text/javascript"></script><script type="text/javascript">gsap.registerPlugin(ScrollTrigger,SplitText,Flip,CustomEase);</script><script defer src="https://unpkg.com/lenis@1.3.17/dist/lenis.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
+
+<script defer>
+  let lenis;
+  const hasLenis = typeof window.Lenis !== "undefined";
+  const hasScrollTrigger = typeof window.ScrollTrigger !== "undefined";
+  function initLenis() {
+    lenis = new Lenis({
+      lerp: 0.14,
+      wheelMultiplier: 0.95,
+    });
+
+    // Exposed on window so loader/load.js (a separate script) can stop/start
+    // it in sync with the preloader — `let lenis` alone is only visible to
+    // scripts that share this exact top-level scope, not to window.lenis.
+    window.lenis = lenis;
+
+    // Lock scroll for the whole preloader phase. lenis.stop() adds the
+    // .lenis-stopped class, which the Lenis CSS above turns into
+    // overflow: hidden — so native touch/scrollbar input is blocked
+    // too, not just smooth-wheel scroll. Released by script.js via
+    // lenis.start() on `preloader:complete`.
+    if (document.querySelector(".loading-container")) {
+      lenis.stop();
+    }
+
+    if (hasScrollTrigger) {
+      lenis.on("scroll", ScrollTrigger.update);
+    }
+
+    gsap.ticker.add((time) => {
+      lenis.raf(time * 1000);
+    });
+
+    gsap.ticker.lagSmoothing(0);
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    initLenis();
+  });
+
+</script>
+<!--<script defer src="https://y8dw8r.csb.app/script.js"></script>-->
+<script defer src="https://cdn.jsdelivr.net/gh/INSYNC-Development/asset@main/snacked-studios/script/global.js"></script></body></html>

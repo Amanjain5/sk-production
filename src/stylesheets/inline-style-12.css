@@ -1,0 +1,5 @@
+.hero_wrap { position: relative; isolation: isolate; }
+.hero_visual_target { position: absolute; inset: 0px; z-index: 1; }
+.hero_content_heading { position: relative; z-index: 4; mix-blend-mode: difference; }
+.hero_time_wrap { position: relative; z-index: 4; mix-blend-mode: normal; }
+.hero_content_bottom { position: relative; z-index: 5; }

@@ -1,0 +1,59 @@
+html.is-loading, html.is-loading body { overflow: hidden !important; }
+
+/* Preloader */
+.preloader { position: fixed; inset: 0; z-index: 100000; background: var(--_theme---background, #0d0d0d); pointer-events: none; transition: opacity 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+.preloader_bar { position: absolute; left: 0; bottom: 0; width: 0.25rem; height: 100%; background: var(--_theme---text, #fff); transform-origin: bottom; }
+.preloader_numbers { position: absolute; right: var(--site--margin, 1.5rem); bottom: var(--site--margin, 1.5rem); display: flex; align-items: flex-end; color: var(--_theme---text, #fff); font-size: clamp(4rem, 12vw, 10rem); line-height: 1; font-variant-numeric: tabular-nums; letter-spacing: -0.04em; }
+.preloader .preloader_mask { display: block !important; position: relative; height: 1.1em !important; line-height: 1.1 !important; overflow: hidden !important; }
+.preloader .preloader_roller > span { line-height: 1.1 !important; height: 1.1em !important; }
+.preloader_roller { display: flex; flex-direction: column; will-change: transform; }
+.preloader_roller > span { display: block; height: 1em; text-align: center; }
+.preloader_pct { font-size: 0.35em; margin-left: 0.15em; margin-bottom: 0.15em; }
+
+/* Character roll on hover */
+[data-chars-stagger] span { display: inline-block; position: relative; text-shadow: 0 1.3em currentColor; transform: translateY(0) rotate(0.001deg); transition: transform 0.6s cubic-bezier(0.625, 0.05, 0, 1); }
+@media (hover: hover) {
+  [data-chars-stagger-wrapper]:hover [data-chars-stagger] span { transform: translateY(-1.3em) rotate(0.001deg); }
+}
+
+/* Word reveal */
+.anim-word { display: inline-block; will-change: transform, opacity, filter; }
+
+/* Clock colon blink */
+.anim-colon { animation: colonBlink 2s steps(1, end) infinite; }
+@keyframes colonBlink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+
+/* Insights carousel active state */
+@property --fill { syntax: '<percentage>'; inherits: true; initial-value: 0%; }
+.insight_item { cursor: pointer; pointer-events: auto !important; }
+.insight_item .insight_visual_wrap { transition: opacity 0.6s ease, filter 0.6s ease, transform 0.3s ease-out; }
+.insight_item .insight_line_wrap, .insight_item .insight_corner_wrap { transition: opacity 0.6s ease; }
+.insight_item:not(.is-active) .insight_line_wrap { opacity: 0; }
+.insight_item.is-active .insight_visual_wrap { opacity: 1; filter: grayscale(0%); }
+.insight_item.is-active .insight_corner_wrap { opacity: 1; }
+.insight_item video { width: 100%; height: 100%; object-fit: cover; }
+.insight_nav_wrap .button_arrow_wrap { pointer-events: auto; }
+
+/* Clients slider stacking */
+.clients_top_item .clients_card_wrap { transition: opacity 0.4s ease; position: relative; z-index: 2; }
+
+/* Odometer */
+[data-odometer-element] { display: inline-flex; align-items: flex-start; font-variant-numeric: tabular-nums; }
+[data-odometer-part='mask'] { display: inline-block; overflow: clip; height: 1em; line-height: 1; }
+[data-odometer-part='roller'] { display: block; white-space: pre; text-align: center; line-height: 1; will-change: transform; }
+[data-odometer-part='static'] { display: inline-block; line-height: 1; }
+
+/* Travelling hero video */
+.hero-travel { position: absolute; inset: 0; overflow: hidden; border-radius: 0; will-change: transform; }
+.hero-travel.is-in-box { border-radius: 0.3125rem; z-index: 2; }
+.hero-travel video { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+/* Marquee row layout */
+.partner_logo_list_wrap { display: flex; width: max-content; }
+
+/* Film grain */
+body::before { content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 99999; background-image: radial-gradient(rgba(255,255,255,0.08) 1px, transparent 1px); background-size: 3px 3px; mix-blend-mode: soft-light; opacity: 0.15; }
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-colon, .partner_logo_list { animation: none !important; }
+}

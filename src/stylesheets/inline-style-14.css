@@ -1,0 +1,5 @@
+.problem_phone_item { background-image: url("images/48604bde-c824-494d-80d0-c38f6a5f4bb9.png"); background-size: cover; background-position: center center; padding: 0% 0.8%; position: relative; z-index: 2; }
+.problem_phone_item .u-video { mask-image: url("images/9ffbde2a-c48b-4cb8-8d09-782dccd8af95.svg"); mask-size: contain; mask-repeat: no-repeat; mask-position: 100% 100%; }
+.problem_phone_item.has-dynamic-island .u-video { mask-image: url("images/b71f85a3-578b-4804-9346-3fa881797330.svg"); mask-size: contain; mask-repeat: no-repeat; mask-position: 100% 30%; }
+.problem_phone_item:first-child { transform: scale(0.8) translateX(25%); z-index: 1; }
+.problem_phone_item:last-child { transform: scale(0.8) translateX(-25%); z-index: 1; }

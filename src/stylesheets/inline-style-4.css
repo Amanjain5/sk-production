@@ -1,0 +1,9 @@
+.insight_item { pointer-events: none; }
+[data-chars-stagger] { overflow: hidden; position: relative; display: inline-block; }
+[data-stroke="corner"]::before { content: ""; position: absolute; inset: -1px; border-radius: inherit; border: 1px solid transparent; background: linear-gradient(325deg,currentColor var(--fill),transparent var(--fill)) border-box,linear-gradient(145deg,currentColor var(--fill),transparent var(--fill)) border-box,linear-gradient(225deg,currentColor var(--fill),transparent var(--fill)) border-box,linear-gradient(35deg,currentColor var(--fill),transparent var(--fill)) border-box; mask: linear-gradient(rgb(255, 255, 255) 0px, rgb(255, 255, 255) 0px) padding-box exclude, linear-gradient(rgb(255, 255, 255) 0px, rgb(255, 255, 255) 0px); pointer-events: none; }
+[data-stroke="corner"], [data-stroke="visual"] { transition: 0.3s ease-out; }
+[data-stroke="corner-hover"]:hover {
+  & .insight_corner_wrap [data-stroke="corner"] { width: 106%; height: 106%; inset: -3%; }
+  & [data-stroke="visual"] { transform: scale(0.95); }
+}
+.partner_center_play_btn { pointer-events: none !important; }

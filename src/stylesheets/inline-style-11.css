@@ -1,0 +1,22 @@
+:root { --nav--menu-open-duration: 600ms; --nav--menu-close-duration: 600ms; --nav--dropdown-open-duration: 600ms; --nav--dropdown-close-duration: 600ms; }
+body:has(.nav_component .w-nav-button.w--open):not(:has(.nav_desktop_wrap:not(.w-condition-invisible))) { overflow: hidden; }
+@media (width < 65em) {
+  body:has(.nav_component .w-nav-button.w--open) { overflow: hidden; }
+}
+@container (min-width: 65em) {
+  .nav_desktop_wrap, .nav_dropdown_backdrop { display: block; }
+  .nav_desktop_wrap:not(.w-condition-invisible) ~ .nav_mobile_wrap, .nav_desktop_wrap:not(.w-condition-invisible) ~ .nav_menu_backdrop { display: none; }
+}
+.nav_dropdown_backdrop { transition: opacity var(--nav--dropdown-close-duration) var(--transition-default); }
+body:has(.nav_dropdown_component > [aria-expanded="true"]) .nav_dropdown_backdrop { opacity: 1; }
+@media (hover: hover) and (pointer: fine) {
+}
+@keyframes menuOpen { 
+  0% { clip-path: polygon(0px 0px, 100% 0px, 100% 0px, 0px 0px); }
+  100% { clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px 100%); }
+}
+@keyframes menuClose { 
+  0% { clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px 100%); }
+  100% { clip-path: polygon(0px 0px, 100% 0px, 100% 0px, 0px 0px); }
+}
+html:has(.nav_banner_wrap:not(.w-condition-invisible)):not(.hide-nav-banner) { --nav--height-total: calc(var(--nav--banner-height) + var(--nav--height)); }

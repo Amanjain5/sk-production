@@ -1,0 +1,1 @@
+body::before { content: ""; position: fixed; inset: 0px; pointer-events: none; z-index: 10000000; background-image: url("images/5ea12334-45b1-4a1e-87fc-51fcad2bed17.avif"); background-repeat: repeat; background-size: 150px 150px; mix-blend-mode: soft-light; opacity: 0.15; }

@@ -1,0 +1,3 @@
+:root { --transition-relaxed: cubic-bezier(0.7,0,0.3,1); --transition-default: var(--transition-relaxed); --transition-duration: 0.5s; }
+.button_link_line, .button_cta_line, .button_large_line, .footer_bottom_link_line { transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94); }
+.button_link_element, .nav_links_link, .footer_link_wrap { transition: all var(--transition-duration) var(--transition-default); }
