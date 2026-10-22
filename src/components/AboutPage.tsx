@@ -73,12 +73,12 @@ function HeroSection() {
         </div>
         <div className="hero_layout">
           <div className="hero_content_wrap">
-            <h1 className="hero_content_heading u-text-style-display u-mix-blend-difference">About SNCKD</h1>
+            <h1 className="hero_content_heading u-text-style-display u-mix-blend-difference">About SKYP</h1>
           </div>
           <div className="hero_time_wrap">
             <p className="hero_time_text u-text-style-main u-color-faded u-secondary-family">
               <span data-hero-element="time">08:00 AM</span>
-              <span>, GERMANY</span>
+              <span>, INDIA</span>
             </p>
           </div>
         </div>

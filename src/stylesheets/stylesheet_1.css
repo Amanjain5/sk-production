@@ -2046,6 +2046,7 @@ img {
   display: flex;
 }
 .nav_links_item {
+  flex: 0 0 auto;
   display: flex;
 }
 .nav_component {
@@ -2068,7 +2069,7 @@ img {
     var(--swatch--dark-900) 20%,
     transparent
   );
-  width: 100%;
+  width: auto;
   height: 100vh;
   display: none;
   position: absolute;
@@ -2102,7 +2103,7 @@ img {
       calc(100% * var(--_trigger---on)),
     var(--_theme---text) calc(100% * var(--_trigger---off))
   );
-  flex: 1 1 0%;
+  flex: 0 0 auto;
   justify-content: flex-start;
   align-items: center;
   padding-left: 0px;
@@ -2134,6 +2135,7 @@ img {
   font-family: var(--_typography---font--secondary-family);
   font-size: var(--_text-style---font-size);
   line-height: var(--_typography---line-height--2);
+  white-space: nowrap;
   letter-spacing: var(--_typography---letter-spacing--tight-1);
   --_text-style---font-family: var(--_typography---font--primary-family);
   --_text-style---font-size: var(--_typography---font-size--text-small);
@@ -2172,7 +2174,7 @@ img {
   justify-content: flex-start;
   align-items: center;
   width: auto;
-  height: auto;
+  height: 100%;
   flex-shrink: 0;
   line-height: 0;
   font-size: 0;
@@ -2180,13 +2182,14 @@ img {
   position: relative;
 }
 .nav_desktop_logo img {
-  width: clamp(9rem, 12vw, 13rem);
-  max-width: none;
+  width: clamp(7.5rem, 15vw, 12rem);
+  max-width: min(30vw, 100%);
   height: auto;
+  max-height: calc(var(--nav--height) - 0.25rem);
   object-fit: contain;
   display: block;
   line-height: 0;
-  transform: translateY(0.5rem);
+  transform: translateY(0.125rem);
 }
 .footer_link_text {
   font-family: var(--_typography---font--secondary-family);
@@ -2230,6 +2233,7 @@ img {
   justify-content: center;
   align-items: center;
   height: 6rem;
+  margin-top: 1rem;
   margin-bottom: auto;
   display: flex;
 }
@@ -4243,6 +4247,7 @@ img {
   .footer_logo_wrap {
     order: 999;
     height: 7rem;
+    margin-top: 0;
   }
   .footer_layout {
     display: contents;
