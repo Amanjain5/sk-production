@@ -86,16 +86,16 @@ export default function ContactPage() {
               <div className="contact_col-1">
                 <div className="contact_item">
                   <ItemHeading>Mobile</ItemHeading>
-                  <TextLink href="tel:+4915754084638" text="+ 49 157 54084638" />
+                  <TextLink href="tel:+918818881005" text="+ 91 881 888 1005" />
                 </div>
                 <div className="contact_item">
                   <ItemHeading>Our email</ItemHeading>
-                  <TextLink href="mailto:hello@snackedstudios.com" text="hello@snackedstudios.com" />
+                  <TextLink href="mailto:skypcreativestudio@gmail.com" text="skypcreativestudio@gmail.com" />
                 </div>
                 <div className="contact_item">
                   <ItemHeading>Adress</ItemHeading>
                   <div data-number="20" className="c-paragraph w-variant-fdb8e663-01e0-aae6-13eb-e6dfca16b689 w-richtext u-rich-text u-weight-medium u-line-height-6 u-letter-spacing-loose-2 u-color-faded u-max-width-none-mobile">
-                    <p>SNACKED studios GmbH<br />In den Obstgärten 12 89290 Buch,<br />Germany</p>
+                    <p>SKYP studio<br />102-kalindi square behind lotus electronics mr9 indore,<br />India</p>
                   </div>
                 </div>
               </div>

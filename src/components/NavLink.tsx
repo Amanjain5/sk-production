@@ -18,10 +18,7 @@ import { Link } from 'react-router-dom'
         }) {
             const className = `nav_links_link w-inline-block${isCurrent ? " w--current" : ""}`;
             const inner = (
-                <div
-                    data-chars-stagger={""}
-                    className={"nav_links_text"}
-                >
+                <div className={"nav_links_text"}>
                     {label}
                 </div>
             );
@@ -32,7 +29,6 @@ import { Link } from 'react-router-dom'
                         className={className}
                         aria-label={label}
                         aria-current={isCurrent ? "page" : undefined}
-                        data-chars-stagger-wrapper=""
                         data-trigger={"hover focus"}
                     >
                         {inner}
@@ -44,7 +40,6 @@ import { Link } from 'react-router-dom'
                     href={href}
                     className={className}
                     aria-label={label}
-                    data-chars-stagger-wrapper=""
                     data-trigger={"hover focus"}
                 >
                     {inner}

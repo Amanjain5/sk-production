@@ -80,7 +80,7 @@ export const Img = ({ id }) => {
         );
     case "1":
         return (
-            <img loading={"lazy"} alt={""} className={"u-cover u-object-fit-contain"} src={images_86eab5dc_e9eb_47e1_89fa_a7e9c16d03ea_png}></img>
+            <img loading={"lazy"} alt={"SKYP Creative Studios"} className={"u-cover u-object-fit-contain"} src={"/assets/Skyp logo.png"}></img>
         );
     case "2":
         return (
@@ -352,7 +352,7 @@ export const Img = ({ id }) => {
         );
     case "69":
         return (
-            <img loading={"lazy"} alt={""} className={"footer_logo_img"} src={images_12cfcc46_5566_4cde_83e4_482bc4db95d0_svg}></img>
+            <img loading={"lazy"} alt={"SKYP Creative Studios"} className={"footer_logo_img"} src={"assets/Skyp logo.png"}></img>
         );
     default:
         return null;

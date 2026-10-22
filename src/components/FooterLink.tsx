@@ -4,8 +4,8 @@ import { Link, useLocation } from 'react-router-dom'
 
 const INTERNAL: Record<string, string> = { "Home": "/", "ABOUT US": "/about", "Contact": "/contact" }
 const EXTERNAL: Record<string, string> = {
-    "LinkedIn": "https://linkedin.com/company/snackedstudios",
-    "Instagram": "https://www.instagram.com/snacked.studios/",
+    "LinkedIn": "https://www.linkedin.com/company/skypcreativestudios",
+    "Instagram": "https://www.instagram.com/skyp_creativestudio?exln=amo4cDJzNzhjYzdn&utm_source=qr",
 }
 
 // Component
@@ -28,10 +28,7 @@ const EXTERNAL: Record<string, string> = {
                     <div className={"footer_link_text u-text-style-main"}>
                         [
                     </div>
-                    <div
-                        data-chars-stagger={""}
-                        className={"footer_link_text u-text-style-small"}
-                    >
+                    <div className={"footer_link_text u-text-style-small"}>
                         {label}
                     </div>
                     <div className={"footer_link_text u-text-style-main"}>

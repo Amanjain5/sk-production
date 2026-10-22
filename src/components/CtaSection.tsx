@@ -30,7 +30,8 @@ import ClickableLink from './ClickableLink.tsx'
                         <div className="cta_layout">
                             <div className="cta_visual_wrap">
                                 <div className="u-video w-background-video w-background-video-atom">
-                                    <BackgroundVideo />
+                                    {/* Hover video disabled for the 'Shall we start' section */}
+                                    {/* <BackgroundVideo /> */}
                                     <VideoImageLink imageId={imageId} />
                                 </div>
                             </div>

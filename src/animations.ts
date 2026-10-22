@@ -824,9 +824,10 @@ export function initAnimations(): Cleanup {
     initCharStagger(),
     initMarquee(),
     initClock(),
-    initVideos(),
-    initCursorVisuals(),
-    initHeroVideo(),
+    // Hover-follow video effects and hero-triggered video effects are disabled.
+    // initVideos(),
+    // initCursorVisuals(),
+    // initHeroVideo(),
     initSectionVideos(),
     initClientsSlider(),
     initInsightCarousel(),

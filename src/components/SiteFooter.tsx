@@ -28,11 +28,11 @@ import Footer from './Footer.tsx'
                                     <span>
                                         {`© `}
                                     </span>
-                                    <span>
+                                    {/* <span>
                                         {`{{year}}`}
-                                    </span>
+                                    </span> */}
                                     <span>
-                                        {` SNCKD. All Rights Reserved.`}
+                                        {` SKYP. All Rights Reserved.`}
                                     </span>
                                 </div>
                                 <FooterAttributionLink />

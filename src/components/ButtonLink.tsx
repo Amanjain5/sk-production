@@ -19,7 +19,7 @@ import ClickableButton from './ClickableButton.tsx'
                     </div>
                     <div className={"button_link_element w-variant-9876ba58-ec8f-292e-80fe-735d452a9bcd"}>
                         <div
-                            data-chars-stagger={""}
+                            // data-chars-stagger={""}
                             className={"button_link_text"}
                         >
                             {text}

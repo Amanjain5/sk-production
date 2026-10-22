@@ -24,7 +24,7 @@ import NavLink from './NavLink.tsx'
                     <NavListItem
                         label="About SNCKD"
                         href="/about"
-                        isCurrent={activePage === "About SNCKD" || activePage === "About"}
+                        isCurrent={activePage === "About SKYP" || activePage === "About"}
                     />
                     <NavListItem
                         label="Gallery"

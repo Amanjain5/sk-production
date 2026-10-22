@@ -3,8 +3,9 @@
 [data-services-item="number"]::before { content: counter(hero-counter, decimal-leading-zero); }
 @media screen and (min-width: 992px) {
 }
+/* Hover video and background overlay effects disabled for the service cards. */
 .services_title_icon, .services_item_bg { transition: 0.3s ease-in; }
 .services_item:hover {
   & .services_title_icon { transform: rotate(0deg); margin-right: 0.5rem; }
-  & .services_item_bg { opacity: 0.5; mix-blend-mode: lighten; }
+  & .services_item_bg { opacity: 0.2; mix-blend-mode: normal; }
 }

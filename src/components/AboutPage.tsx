@@ -382,11 +382,15 @@ function CtaSection() {
         <div className="cta_line_wrap"><Line /></div>
         <div className="cta_layout">
           <div data-cta-el="visual" className="cta_visual_wrap">
-            <div data-poster-url={poster} data-video-urls={`${mp4},${webm}`} data-autoplay="true" data-loop="true" className="u-video w-background-video w-background-video-atom">
-              <video id="68c5d9ea-7f97-f091-ae5d-ebb0e7af7767-video" autoPlay loop muted playsInline style={{ backgroundImage: `url("${poster}")` }} data-object-fit="cover">
-                <source src={mp4} />
-                <source src={webm} />
-              </video>
+            <div
+              data-poster-url={poster}
+              data-video-urls={`${mp4},${webm}`}
+              data-autoplay="true"
+              data-loop="true"
+              className="u-video w-background-video w-background-video-atom"
+              style={{ backgroundImage: `url("${poster}")` }}
+            >
+              {/* Background video removed from this CTA section. */}
             </div>
           </div>
           <div data-chars-stagger-wrapper="" data-trigger="hover focus" className="button_cta_wrap">
