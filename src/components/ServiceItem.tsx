@@ -109,7 +109,7 @@ function getServiceItemData(id: string | number): ServiceItemData {
     "0": {
       title: "Single Production",
       description:
-        "One-off campaigns, brand films and hero content. For brands with a specific launch, campaign or moment to capture.",
+        "Brand films, ad commercials and launch campaigns. For brands with a product drop, festive campaign or big moment to capture.",
       imageId: "32",
       videoImageId: "33",
       poster: "images/0debb50a-5a6b-4a03-b3c8-611b66f70b43.jpg",
@@ -118,7 +118,7 @@ function getServiceItemData(id: string | number): ServiceItemData {
     "1": {
       title: "Production Retainer",
       description:
-        "Recurring shoot days and ongoing content delivery. For brands that need consistent output without rebuilding the production every time.",
+        "Recurring shoot days and a steady stream of reels and creatives every month. For brands that need consistent output without starting from zero each time.",
       imageId: "34",
       videoImageId: "35",
       poster: "images/f2ce8d57-b7b4-4be6-a855-c92c0f95d3d4.jpg",
@@ -127,7 +127,7 @@ function getServiceItemData(id: string | number): ServiceItemData {
     "2": {
       title: "Always-On Partnership",
       description:
-        "Full content operation. Monthly shoots, weekly outputs, direct line to the team. For brands that treat content as infrastructure, not a project.",
+        "Your complete content department: monthly shoots, weekly deliveries, influencer content and a direct line to our directors. For brands that treat content as infrastructure, not a one-time project.",
       imageId: "36",
       videoImageId: "37",
       poster: "images/c6716db7-ceb7-496c-91bc-53add15d53f6.jpg",

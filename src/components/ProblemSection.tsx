@@ -30,7 +30,7 @@ function ProblemSection() {
                             className="c-heading w-variant-701c4b6c-37cf-de59-d80d-80a1822c4994 w-richtext u-text-trim-on u-line-height-3 u-letter-spacing-tight-1 u-text-wrap-pretty u-brand-color-secondary"
                         >
                             <h2>
-                                Stay visible. Or get replaced.
+                                Stay visible. Or get scrolled past.
                             </h2>
                         </div>
                     </div>
@@ -44,12 +44,14 @@ function ProblemSection() {
 
                         <div className="problem_phone_list_wrap">
                             <ProblemPhoneItem
+                                videoSrc="/assets/IMG_8717.MP4"
                                 poster="images/17c85ccb-3729-493d-b184-0f70a15a8d1f.jpg"
                                 videoClassName="u-video problem_phone_video-1"
                                 imageId="29"
                             />
 
                             <ProblemPhoneItem
+                                videoSrc="/assets/IMG_8718.MP4"
                                 poster="images/f488e8b6-f283-4096-885a-1b74dc9eee6f.jpg"
                                 videoClassName="u-video problem_phone_video-2"
                                 imageId="30"
@@ -61,9 +63,11 @@ function ProblemSection() {
                                     style={{ position: "relative" }}
                                 >
                                     <video
-                                        playsInline={" "}
-                                        loop={""}
-                                        muted={""}
+                                        src="/assets/IMG_8721.MP4"
+                                        playsInline
+                                        autoPlay
+                                        loop
+                                        muted
                                         preload="metadata"
                                         poster="images/d0066876-a832-4769-a9af-e88d8039cbe7.jpg"
                                         className="u-video u-object-position-98 problem_phone_video-3"
@@ -84,7 +88,7 @@ function ProblemSection() {
 
                     <div className="problem_bottom_wrap">
                         <ProblemFeatureItem
-                            title="Visual Scroll Stop"
+                            title="Thumb-Stopping Frames"
                             dataId="1"
                         />
 
@@ -94,7 +98,7 @@ function ProblemSection() {
                         />
 
                         <ProblemFeatureItem
-                            title="Continuous Output"
+                            title="Always On Your Feed"
                             dataId="3"
                         />
                     </div>
@@ -108,10 +112,12 @@ function ProblemSection() {
 // Subcomponents
 
 function ProblemPhoneItem({
+    videoSrc,
     poster,
     videoClassName,
     imageId
 }: {
+    videoSrc: string;
     poster: string;
     videoClassName: string;
     imageId: string;
@@ -119,9 +125,11 @@ function ProblemPhoneItem({
     return (
         <div className="problem_phone_item">
             <video
-                playsInline={" "}
-                loop={""}
-                muted={""}
+                src={videoSrc}
+                playsInline
+                autoPlay
+                loop
+                muted
                 preload="metadata"
                 poster={poster}
                 className={videoClassName}

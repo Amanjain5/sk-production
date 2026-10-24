@@ -21,14 +21,14 @@ import PartnerLogoList from './PartnerLogoList.tsx'
                         <div id="reels" className="partner_layout">
                             <div className="partner_top_wrap">
                                 <div className="tag_wrap u-margin-bottom-6">
-                                    <Tag label="SPECIALIZED IN OUTDOOR MOVING IMAGES" />
+                                    <Tag label="SPECIALIZED IN CINEMATIC BRAND STORYTELLING" />
                                 </div>
                                 <div
                                     data-number="37"
                                     className="c-heading w-variant-701c4b6c-37cf-de59-d80d-80a1822c4994 w-richtext u-color-faded u-text-wrap-pretty u-line-height-2 u-letter-spacing-tight-1 u-margin-bottom-5 u-text-trim-on"
                                 >
                                     <p>
-                                        Premium productions don't need huge crews or endless coordination. Small, flexible teams let us create high-end visuals efficiently — and keep the process simple on your side.
+                                        Premium production doesn’t need a 40-person crew or weeks of back-and-forth. Our tight, director-led team moves fast, shoots smart and keeps things simple for you, from script to final cut.
                                     </p>
                                 </div>
                                 <div

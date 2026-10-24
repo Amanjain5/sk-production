@@ -16,7 +16,7 @@ import ServiceItem from './ServiceItem.tsx'
                         <div className="services_layout">
                             <div className="services_top_wrap">
                                 <div className="tag_wrap">
-                                    <Tag label="Modes of Collaboration" />
+                                    <Tag label="MODES OF COLLABORATION" />
                                 </div>
                                 <div
                                     data-number="20"

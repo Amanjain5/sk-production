@@ -13,12 +13,8 @@ function PartnerCenterContent() {
     	</div>
     	<div data-number={"40"} className={"c-paragraph w-variant-fdb8e663-01e0-aae6-13eb-e6dfca16b689 w-richtext u-rich-text u-color-faded u-weight-medium u-line-height-6 u-letter-spacing-loose-2"}>
     		<p>
-    			<em>
-    				Most clients become partners.
-    			</em>
-    			<em>
-    				We work with brands continuously — campaigns, content systems and ongoing production built for the long run.
-    			</em>
+    			<em>Most clients become partners.</em>{' '}
+    			150+ brands, from Reebok India to homegrown labels, trust us with campaigns, monthly content and ongoing production built for the long run.
     		</p>
     		<p>
     

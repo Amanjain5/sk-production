@@ -38,10 +38,10 @@ import MainButton from './MainButton.tsx'
                             <div className={"hero_time_wrap"}>
                                 <p className={"hero_time_text u-text-style-main u-color-faded u-secondary-family"}>
                                     <span>
-                                        08:00 AM
+                                        05:00 AM
                                     </span>
                                     <span>
-                                        , GERMANY
+                                        , INDORE · MUMBAI
                                     </span>
                                 </p>
                             </div>

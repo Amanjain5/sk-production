@@ -16,8 +16,8 @@ function HomePage() {
     return <main className={"page_main"}>
     	
             <HeroSection
-                heading="High-end visuals. Without the agency chaos."
-                buttonLabel="START PROJECT"
+                heading="Cinematic visuals. Without the agency chaos."
+                buttonLabel="START A PROJECT"
             />
         
     	
@@ -29,7 +29,7 @@ function HomePage() {
     	
             <FactSection
                 number="50"
-                description="That's the average attention span in the feed. Every piece of content we build is designed to win those seconds - the only ones that decide whether your content gets seen at all."
+                description="That’s how long you get in the feed. Every reel, ad and film we make is built to win those seconds, because they decide whether your brand gets seen at all."
             />
         
     	
@@ -39,13 +39,15 @@ function HomePage() {
                 <ContentSection variant="insight" />
             
     	
-                <ContentSection variant="clients" />
-            
-    	
             <GallerySection />
         
     	
-            <CtaSection text="Shall we start?" imageId="67" />
+            <CtaSection
+                heading="Tell us what you want."
+                description="Every great frame starts with a conversation. Share your brand, your goal, your wildest idea, and we’ll come back with a vision, not just a quote."
+                buttonLabel="START A CONVERSATION"
+                imageId="67"
+            />
         
     </main>
 }

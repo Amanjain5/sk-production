@@ -2041,7 +2041,7 @@ img {
 }
 .nav_links_wrap:where(.w-variant-23049969-09ac-2789-520b-3c6ae895bbc6) {
   flex-flow: row;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   display: flex;
 }
@@ -2078,9 +2078,9 @@ img {
 .nav_desktop_layout {
   width: 100%;
   height: var(--nav--height);
-  column-gap: 0.5rem;
+  column-gap: 2rem;
   pointer-events: auto;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
@@ -2119,6 +2119,7 @@ img {
 }
 .nav_desktop_menu_wrap {
   z-index: 1;
+  flex: 1 1 auto;
   display: flex;
 }
 .nav_links_component {
@@ -2164,32 +2165,36 @@ img {
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5rem 1.875rem 0.5rem 1.25rem;
+  padding: 0.5rem 0.75rem;
   display: flex;
   position: relative;
 }
 .nav_desktop_logo {
   z-index: 2;
   outline-offset: var(--focus--offset-inner);
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
-  width: auto;
-  height: 100%;
+  width: clamp(5.5rem, 7.5vw, 6.5rem);
+  aspect-ratio: 2.24 / 1;
+  height: auto;
   flex-shrink: 0;
   line-height: 0;
   font-size: 0;
-  display: flex;
+  display: block;
   position: relative;
+  overflow: hidden;
 }
 .nav_desktop_logo img {
-  width: clamp(7.5rem, 15vw, 12rem);
-  max-width: min(30vw, 100%);
-  height: auto;
-  max-height: calc(var(--nav--height) - 0.25rem);
-  object-fit: contain;
+  position: absolute;
+  top: -24.9%;
+  left: -22%;
+  width: 138.2%;
+  max-width: none;
+  height: 176.9%;
+  max-height: none;
+  object-fit: fill;
   display: block;
   line-height: 0;
-  transform: translateY(0.125rem);
 }
 .footer_link_text {
   font-family: var(--_typography---font--secondary-family);
@@ -3207,6 +3212,14 @@ img {
   justify-content: center;
   align-items: center;
   display: flex;
+}
+.cta_copy_wrap {
+  max-width: 52rem;
+  margin-bottom: var(--_spacing---space--8);
+  text-align: center;
+}
+.cta_copy_description {
+  margin-top: var(--_spacing---space--4);
 }
 .button_cta_wrap {
   position: relative;

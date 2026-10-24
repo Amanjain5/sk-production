@@ -55,7 +55,7 @@ import ClientLogoList from './ClientLogoList.tsx'
                                             />
 
                                             <TagText
-                                                text="RECENT MISSIONS"
+                                                text="SKYP ORIGINALS"
                                                 textStyle="small"
                                             />
 
@@ -95,7 +95,7 @@ import ClientLogoList from './ClientLogoList.tsx'
                                         >
                                             <ButtonIcon position="left" />
 
-                                            <MainButton label="See more" />
+                                            <MainButton label="See more work" />
 
                                             <ClickableWrap />
 

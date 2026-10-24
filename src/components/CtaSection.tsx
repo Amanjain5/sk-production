@@ -12,11 +12,15 @@ import ClickableLink from './ClickableLink.tsx'
 // Component
 
         function CtaSection({
-            text,
-            imageId
+            heading = "Tell us what you want.",
+            description = "Every great frame starts with a conversation. Share your brand, your goal, your wildest idea, and we’ll come back with a vision, not just a quote.",
+            buttonLabel = "START A CONVERSATION",
+            imageId = "67"
         }: {
-            text: string;
-            imageId: string;
+            heading?: string;
+            description?: string;
+            buttonLabel?: string;
+            imageId?: string;
         }) {
             return (
                 <section className="cta_wrap u-section">
@@ -35,13 +39,21 @@ import ClickableLink from './ClickableLink.tsx'
                                     <VideoImageLink imageId={imageId} />
                                 </div>
                             </div>
+                            <div className="cta_copy_wrap">
+                                <h2 className="cta_copy_heading u-text-style-h3 u-text-trim-on">
+                                    {heading}
+                                </h2>
+                                <p className="cta_copy_description u-color-faded-30 u-line-height-6 u-letter-spacing-loose-2">
+                                    {description}
+                                </p>
+                            </div>
                             <div
                                 data-trigger="hover focus"
                                 className="button_cta_wrap"
                             >
                                 <div className="button_cta_element">
                                     <ButtonCtaIcon />
-                                    <CtaText text={text} />
+                                    <CtaText text={buttonLabel} />
                                     <DecorativeDiv className="button_cta_line" />
                                 </div>
                                 <div className="clickable_wrap u-cover-absolute">

@@ -333,14 +333,14 @@ function initMarquee(): Cleanup {
   return () => {}
 }
 
-/* ---------- Live Berlin clock with blinking colon ---------- */
+/* ---------- Live India clock with blinking colon ---------- */
 function initClock(): Cleanup {
   const p = document.querySelector<HTMLElement>('.hero_time_text')
   const span = p?.querySelector<HTMLElement>('[data-hero-element="time"]') ?? p?.querySelector<HTMLElement>('span')
   if (!span) return () => {}
   const render = () => {
     const parts = new Intl.DateTimeFormat('en-US', {
-      timeZone: 'Europe/Berlin', hour: '2-digit', minute: '2-digit', hour12: true,
+      timeZone: 'Asia/Kolkata', hour: '2-digit', minute: '2-digit', hour12: true,
     }).formatToParts(new Date())
     const h = parts.find((x) => x.type === 'hour')?.value ?? '00'
     const m = parts.find((x) => x.type === 'minute')?.value ?? '00'
@@ -447,7 +447,7 @@ function initHeroVideo(): Cleanup {
 /* ---------- Clients slider: 8s autoplay with progress line ---------- */
 const VID = 'https://cdn.jsdelivr.net/gh/INSYNC-Development/asset@main/snacked-studios/videos/'
 const CLIENT_VIDEOS = ['1206780227', '1206780311', '1206780178', '1206780272', '1206780191', '1206780253'].map((id) => `${VID}vimeo-${id}.mp4`)
-const PROBLEM_VIDEOS = ['1206777953', '1206777990', '1206778021'].map((id) => `${VID}vimeo-${id}.mp4`)
+const PROBLEM_VIDEOS = ['/assets/IMG_8717.MP4', '/assets/IMG_8718.MP4', '/assets/IMG_8721.MP4']
 
 function setVideoSrc(v: HTMLVideoElement, src: string) {
   if (v.dataset.srcSet) return
@@ -824,10 +824,10 @@ export function initAnimations(): Cleanup {
     initCharStagger(),
     initMarquee(),
     initClock(),
-    // Hover-follow video effects and hero-triggered video effects are disabled.
+    // Hover-follow video effects remain disabled.
     // initVideos(),
     // initCursorVisuals(),
-    // initHeroVideo(),
+    initHeroVideo(),
     initSectionVideos(),
     initClientsSlider(),
     initInsightCarousel(),

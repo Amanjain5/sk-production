@@ -37,16 +37,16 @@ import type { JSX } from 'react/jsx-runtime'
         function getParagraphData(id: string | number): ParagraphData {
             const paragraphData: Record<string, ParagraphData> = {
                 "0": {
-                    text: "We create campaigns, short-form content and content systems designed for how brands communicate today."
+                    text: "We make brand films, ad campaigns and scroll-stopping social content for brands that want to look premium and post consistently."
                 },
                 "1": {
-                    text: "The first 1.7 seconds decide everything. We build every frame to break the scroll — no slow intros, no warm-ups."
+                    text: "The first 1.7 seconds decide everything. Every frame we shoot is built to stop the thumb, with no slow intros and no wasted seconds."
                 },
                 "2": {
-                    text: "One production, full content library. We plan every shoot to deliver hero films, reels, stories and teasers without ever feeling repetitive."
+                    text: "One production day gives you a full content library: hero film, reels, stories, product stills and teasers. We plan it all upfront so nothing feels repetitive."
                 },
                 "3": {
-                    text: "Consistency beats campaigns. We design every production to feed your channels for weeks, not days."
+                    text: "Consistency beats one-off campaigns. Every shoot is designed to feed your Instagram, ads and website for weeks, not days."
                 }
             };
 

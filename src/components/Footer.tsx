@@ -55,6 +55,7 @@ function Footer() {
 
           <div className="footer_content_bottom">
             <div className="footer_content_button_wrap">
+              <p className="u-text-style-small u-color-faded-30">INDORE · MUMBAI</p>
               <ButtonLink text="skypcreativestudio@gmail.com" />
             </div>
 

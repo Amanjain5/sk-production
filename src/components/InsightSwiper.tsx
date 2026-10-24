@@ -12,27 +12,27 @@ import VideoImageLink from './VideoImageLink.tsx'
                     <InsightItem
                         poster="images/5201e8e2-7350-4bc7-b35d-6ad24122abef.jpg"
                         imageId="38"
-                        title="GHOST E-RIOT CF Launch"
+                        title="REEBOK INDIA — BRAND CAMPAIGN"
                     />
                     <InsightItem
                         poster="images/5303eac8-5f0c-4993-81d0-73f502800c69.jpg"
                         imageId="39"
-                        title="RAYMON TAROK Launch Campaign"
+                        title="MADHURI OIL — “GHAR KA SWAAD” DIWALI FILM"
                     />
                     <InsightItem
                         poster="images/293ec0cb-9ac8-438a-9d35-415dfcc63e84.jpg"
                         imageId="40"
-                        title="SUNLIGHT Vanlife Launch Campaign"
+                        title="NEELAM FORESTERIA — RESORT FILM, PACHMARHI"
                     />
                     <InsightItem
                         poster="images/0f5bf38e-7e6f-4a81-bb94-30d46a96f7df.jpg"
                         imageId="41"
-                        title="WHY NOT feat. Korbinian Engstler - FULL MTB MOVIE"
+                        title="KAASHI — FABRIC SENSORY REEL SERIES"
                     />
                     <InsightItem
                         poster="images/e017eebb-630d-4573-85f4-b688e25c8601.jpg"
                         imageId="42"
-                        title="WHY NOT feat. Korbinian Engstler - FULL MTB MOVIE"
+                        title="OVA — LIFESTYLE AD CAMPAIGN"
                     />
                 </div>
             );
@@ -62,9 +62,9 @@ import VideoImageLink from './VideoImageLink.tsx'
                         style={{ position: "relative" }}
                     >
                         <video
-                            playsInline={" "}
-                            loop={""}
-                            muted={""}
+                            playsInline
+                            loop
+                            muted
                             preload="metadata"
                             poster={poster}
                             className="u-video"
