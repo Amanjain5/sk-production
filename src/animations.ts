@@ -447,7 +447,7 @@ function initHeroVideo(): Cleanup {
 /* ---------- Clients slider: 8s autoplay with progress line ---------- */
 const VID = 'https://cdn.jsdelivr.net/gh/INSYNC-Development/asset@main/snacked-studios/videos/'
 const CLIENT_VIDEOS = ['1206780227', '1206780311', '1206780178', '1206780272', '1206780191', '1206780253'].map((id) => `${VID}vimeo-${id}.mp4`)
-const PROBLEM_VIDEOS = ['/assets/IMG_8717.MP4', '/assets/IMG_8718.MP4', '/assets/IMG_8721.MP4']
+const PROBLEM_VIDEOS = ['/assets/video-optimized/IMG_8717.mp4', '/assets/video-optimized/IMG_8718.mp4', '/assets/video-optimized/IMG_8721.mp4']
 
 function setVideoSrc(v: HTMLVideoElement, src: string) {
   if (v.dataset.srcSet) return

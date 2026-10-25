@@ -44,14 +44,14 @@ function ProblemSection() {
 
                         <div className="problem_phone_list_wrap">
                             <ProblemPhoneItem
-                                videoSrc="/assets/IMG_8717.MP4"
+                                videoSrc="/assets/video-optimized/IMG_8717.mp4"
                                 poster="images/17c85ccb-3729-493d-b184-0f70a15a8d1f.jpg"
                                 videoClassName="u-video problem_phone_video-1"
                                 imageId="29"
                             />
 
                             <ProblemPhoneItem
-                                videoSrc="/assets/IMG_8718.MP4"
+                                videoSrc="/assets/video-optimized/IMG_8718.mp4"
                                 poster="images/f488e8b6-f283-4096-885a-1b74dc9eee6f.jpg"
                                 videoClassName="u-video problem_phone_video-2"
                                 imageId="30"
@@ -63,7 +63,7 @@ function ProblemSection() {
                                     style={{ position: "relative" }}
                                 >
                                     <video
-                                        src="/assets/IMG_8721.MP4"
+                                        src="/assets/video-optimized/IMG_8721.mp4"
                                         playsInline
                                         autoPlay
                                         loop
